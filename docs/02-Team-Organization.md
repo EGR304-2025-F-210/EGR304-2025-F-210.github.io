@@ -7,9 +7,9 @@ tags:
 
 ## Team Charter
 
-From the ... which can be reviewed in ["Appendix: Team Organization"](https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/App-Team-Org/), the team's charter formed to be (showing ASU's Charter as an Example):G
+Based on the team goals, procudures and responsibilities of the team which can be reviewed in ["Appendix: Team Organization"](https://egr304-2025-f-210.github.io/Appendix/App-Team-Org/), the team's charter formed to be.
 
-> "Team 210 focuses on productivity, inclusivity and solving real-life ecological issues. We work on embedded systems and work on meeting responsibilities, duties on time and we want to submit assignments on time.
+> Team 210 focuses on productivity, inclusivity and solving real-life ecological issues. We work on embedded systems and work on meeting responsibilities, duties on time and we want to submit assignments on time.
 
 ## Product Mission Statement
 

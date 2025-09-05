@@ -1,4 +1,4 @@
 Group website live link:
-https://embedded-systems-design.github.io/EGR304TeamTemplate/
+https://egr304-2025-f-210.github.io/
 
 EGR304 group repository for group F-210.
