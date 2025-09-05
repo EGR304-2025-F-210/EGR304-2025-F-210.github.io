@@ -11,7 +11,7 @@ tags:
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Dr. Nichols<br>
+/Professor Dr. Nichols<br>
   
 
 </center>
