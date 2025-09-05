@@ -6,12 +6,12 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+<font size="5">Team 210<br>
+**Submission: September, 05, 2025**<br>
+Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Dr. Nichols<br>
   
 
 </center>
@@ -26,7 +26,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
+| Asadbek Ruziev               | [JohnDoe.GitHub](https://github.com/mraruziev/mraruziev.github.io) |
 | Name #2                | link |
 | Name #3                | link |
 | Name #4                | link |
