@@ -27,6 +27,6 @@ Dr. Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Asadbek Ruziev               | [JohnDoe.GitHub](https://github.com/mraruziev/mraruziev.github.io) |
-| Name #2                | link |
+| Jacob Andrus                 | [JacobAndrus.GitHub](https://jandrus4.github.io/)                    |
 | Name #3                | link |
 | Name #4                | link |
