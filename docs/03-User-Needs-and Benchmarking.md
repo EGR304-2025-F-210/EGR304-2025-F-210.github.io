@@ -5,15 +5,7 @@ tags:
 - tag2
 ---
 
-## Et poposcerat rursus ad magnus premit
-
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
-
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
+Our mission is to design and deliver a practical, market-relevant embedded power systems project that balances commercial viability with educational growth. By focusing on achievable scope, profitability, and real-world need, we aim to sharpen our skills in embedded systems, coding, sensors, and solid-state electronics—building both technical expertise and entrepreneurial insight while completing a product that genuinely serves its users.
 
 ## Esse quoque sedem plena nunc iecur
 
