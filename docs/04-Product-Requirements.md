@@ -6,11 +6,11 @@ tags:
 ---
 
 ## Project Objective
-meets an actual market need (Not the digital equivalent of a Labubu)
-Is profitable (Whether we sell many units or high margin)
-Reasonable scope of project so we can finish it
-Improving skills in Embedded power systems
-Learning more about embedded systems, coding, sensors, and learning about smaller electronic devices rather than larger circuits, more solid state stuff
+- Meets an actual market need (Not the digital equivalent of a Labubu)
+- The project is profitable (Whether we sell many units or high margin)
+- Reasonable scope of project so we can finish it
+- Improving skills in Embedded power systems
+- Learning more about embedded systems, coding, sensors, and learning about smaller electronic devices rather than larger circuits, more solid state stuff
 
 
 ## Stakeholders

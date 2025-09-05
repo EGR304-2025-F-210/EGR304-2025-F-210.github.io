@@ -29,4 +29,4 @@ Fall 2025<br>
 | Asadbek Ruziev               | [JohnDoe.GitHub](https://github.com/mraruziev/mraruziev.github.io) |
 | Jacob Andrus                 | [JacobAndrus.GitHub](https://jandrus4.github.io/)                    |
 | K Phang                | [K-Phang.github](https://K-Phang.github.io) |
-| Name #4                | link |
+| Neel Garde               | [NeelGarde.Github](https://github.com/NeelGarde/NeelGarde) |
