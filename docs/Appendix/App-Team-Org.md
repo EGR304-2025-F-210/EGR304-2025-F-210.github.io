@@ -100,5 +100,4 @@ We will discuss this like mature adults and put the project success first
 ## Signatures
 
 K Phang
-Asadbek Ruziev ARD
 
