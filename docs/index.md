@@ -28,5 +28,5 @@ Fall 2025<br>
 | ---------------------- | -----------------------|
 | Asadbek Ruziev               | [JohnDoe.GitHub](https://github.com/mraruziev/mraruziev.github.io) |
 | Jacob Andrus                 | [JacobAndrus.GitHub](https://jandrus4.github.io/)                    |
-| Name #3                | link |
+| K Phang                | [K-Phang.github](https://K-Phang.github.io) |
 | Name #4                | link |
