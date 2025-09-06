@@ -1,6 +1,6 @@
-site_name: EGR304 Team Report Template
-site_url: https://embedded-systems-design.github.io/EGR304TeamTemplate
-repo_url: https://github.com/embedded-systems-design/EGR304TeamTemplate
+site_name: EGR304 Team #201 Report
+site_url: https://egr304-2025-f-210.github.io/
+repo_url: https://github.com/EGR304-2025-F-210/EGR304-2025-F-210.github.io
 edit_uri: edit/main/docs/
 theme:
   name: material

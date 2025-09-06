@@ -7,11 +7,11 @@ tags:
 
 ## Team Goals
 
-Lmeets an actual market need (Not the digital/elecctronic equivalent of a Labubu)
-Is profitable (Whether we sell many units or high margin)
-Reasonable scope of project so we can finish it
-Improving skills in Embedded power systems 
-Learning more about embedded systems, coding, sensors, and learning about smaller electronic devices rather than larger circuits, more solid state stuff 
+1. Lmeets an actual market need (Not the digital/elecctronic equivalent of a Labubu)
+2. Is profitable (Whether we sell many units or high margin)
+3. Reasonable scope of project so we can finish it
+4. Improving skills in Embedded power systems 
+5. Learning more about embedded systems, coding, sensors, and learning about smaller electronic devices rather than larger circuits, more solid state stuff.
 
 Our mission is to design and deliver a practical, market-relevant embedded power systems project that balances commercial viability with educational growth. By focusing on achievable scope, profitability, and real-world need, we aim to sharpen our skills in embedded systems, coding, sensors, and solid-state electronics—building both technical expertise and entrepreneurial insight while completing a product that genuinely serves its users.
 
@@ -53,13 +53,13 @@ _**Appendix Table 2**: Weekly Schedule_
 | 2:00 PM | N A| - | - | - | N | A | A |
 | 3:00 PM | A | - | - | - | N | A | A |
 | 4:00 PM | A | - | - | - | N | A | A |
-| 5:00 PM | A | A | - | A | N | A | A |
-| 6:00 PM | A | A | - | A | N | A | A |
-| 7:00 PM | A | A | - | A | N | G A | A |
-| 8:00 PM | A | A | - | A | - | A | A |
-| 9:00 PM | A | A | - | A | - | A | A |
+| 5:00 PM | A | A | A | A | N A | A | A |
+| 6:00 PM | A | A | A | A | N A | A | A |
+| 7:00 PM | A | A | A | A | N A | G A | A |
+| 8:00 PM | A | A | A | A | A | A | A |
+| 9:00 PM | A | A | A | - | A | A | A |
 
-We will meet as necessary
+We will meet based on the necessity of the project, assignment. We will discuss details about time frequency of meeting depending on the above sotuations.
 
 _**Table Legend for Appendix Table 2**_
 
@@ -73,13 +73,13 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
+1. What method will you use to remind yourselves of meetings (a shared calendar?) <br>
 We will message the day before and day of to confirm a meeting 
-1. How will your team go about changing or adding meeting times?
+2. How will your team go about changing or adding meeting times? <br>
 We will message in the discord and discuss 
-1. What's the preferred format for meetings (face-to-face or virtually)?
+3. What's the preferred format for meetings (face-to-face or virtually)? <br>
 Virtually 
-1. Are there any other procedures that your team feels are necessary?
+4. Are there any other procedures that your team feels are necessary? <br>
 Not at the moment
 
 ## Roles & Responsibilities
@@ -95,10 +95,10 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-We will discuss this like mature adults and put the project success first 
+We will talk professionally and do our assignments on time and meet our responsibilities. If there are going to be conflicts on any reason, we will discuss and try to resolve like mature adults and put the project success first.
 
 ## Signatures
 
-K Phang
-Asadbek Ruziev
-Neel Garde
+K Phang <br>
+Asadbek Ruziev <br>
+Neel Garde <br>
