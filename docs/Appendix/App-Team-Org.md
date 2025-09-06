@@ -44,20 +44,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | J N A | J A | N | J N | N | J | J |
-| 9:00 AM | J N A | J A | N | J N | N | J A | J |
-| 10:00 AM | J N A | J A | - | J N | N | J A | J |
-| 11:00 AM | J N A| J A | - | J N | N | J A | J |
-| 12:00 PM | J N A| J A | - | J N | J N | J A | J |
-| 1:00 PM | J N A| J | - | J | J N | J | J |
-| 2:00 PM | J N A| - | - | - | J N | J A | J A |
-| 3:00 PM | A | - | J | - | J N | J A | J A |
-| 4:00 PM | A | - | J | - | J N | J A | J A |
-| 5:00 PM | A | J A | J A | J A | J N A | J A | J A |
-| 6:00 PM | A | J A | J A | J A | J N A | J A | J A |
-| 7:00 PM | A | A | A | A | N A | A | A |
-| 8:00 PM | A | A | A | A | A | A | A |
-| 9:00 PM | A | A | A | - | A | A | A |
+| 8:00 AM | J N A | J A K| N K | J N K | N K| J K| J K|
+| 9:00 AM | J N A | J A | N K | J N | N K| J A K| J K|
+| 10:00 AM | J N A | J A K| - | J N K | N | J A K| J K|
+| 11:00 AM | J N A | J A K| - | J N K| N | J A K| J K|
+| 12:00 PM | J N A| J A K| - | J N K| J N | J A K| J K|
+| 1:00 PM | J N A | J | - | J | J N | J K| J K|
+| 2:00 PM | J N A | - | K | - | J N K| J A K| J A K|
+| 3:00 PM | A | K | J K| K| J N K| J A K| J A K|
+| 4:00 PM | A | K | J K| K | J N K| J A K| J A K|
+| 5:00 PM | A | J A| J A | J A | J N A K| J A | J A |
+| 6:00 PM | A | J A K| J A K| J A | J N A K| J A | J A |
+| 7:00 PM | A | A K| A K| A | N A | A | A |
+| 8:00 PM | A K | A K| A K| A | A | A | A |
+| 9:00 PM | A K | A K| A K| - | A | A | A |
 
 We will meet based on the necessity of the project, assignment. We will discuss details about time frequency of meeting depending on the above sotuations.
 
