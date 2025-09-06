@@ -93,6 +93,13 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader: Asadbek | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor: Jacob   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
+## Team Coordination & Accountability
+To ensure each member is satisfied with an assignment, we will all create one unique aspect of the assignment and designate someone on the team to submit the assignment before the deadline. Each member will be reminded to review class lectures and the textbook if he is unfamiliar with the concepts presented in the assignment. If his level of knowledge is still low, a team member that is more familiar with concept will help. If the entire team is unfamiliar, some portion of or the entire team will attend office hours.
+
+In order to ensure design feedback is reviewed, major changes will be made aware to the whole team as soon as feasible. Each member of the team will be assigned certain portions of assignments that can fit with his workload outside of the team project. We will attempt to split the semester's workload evenly across the whole semester, but also realize that people's lives may change at random times. Everyone will be expected to be aware of the project status, which will help make sure everyone is doing their assigned tasks and picking up the slack when need be.
+
+If a team member is found to be underperforming, the rest of the team will check on him to make sure everything is ok. If the workload is too much at the moment, we will coordinate to move some tasks around to ease the burden. If the team member is choosing to underperform, we will handle the issue internally. If a team member has to be talked to more than 3 times about their choosing to underperform, someone from the teaching team will be involved in the next discussion. If the team member continues to choose to underperform, he will be given a pink slip, so the rest of the team can keep moving forward.
+
 ## Conflict Recognition & Resolution
 
 We will talk professionally and do our assignments on time and meet our responsibilities. If there are going to be conflicts on any reason, we will discuss and try to resolve like mature adults and put the project success first.
