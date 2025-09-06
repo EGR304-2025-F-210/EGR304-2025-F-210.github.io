@@ -7,7 +7,7 @@ tags:
 
 ## Team Goals
 
-1. Lmeets an actual market need (Not the digital/elecctronic equivalent of a Labubu)
+1. Meets an actual market need (Not the digital/elecctronic equivalent of a Labubu)
 2. Is profitable (Whether we sell many units or high margin)
 3. Reasonable scope of project so we can finish it
 4. Improving skills in Embedded power systems 
@@ -44,18 +44,18 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | N A | A | N  | N | N | - | - |
-| 9:00 AM | N A | A | N | N | N | A | - |
-| 10:00 AM | N A | A | - | N | N | A | - |
-| 11:00 AM | N A| A | - | N | N | A | - |
-| 12:00 PM | N A| A | - | N | N | A | - |
-| 1:00 PM | N A| - | - | - | N | - | - |
-| 2:00 PM | N A| - | - | - | N | A | A |
-| 3:00 PM | A | - | - | - | N | A | A |
-| 4:00 PM | A | - | - | - | N | A | A |
-| 5:00 PM | A | A | A | A | N A | A | A |
-| 6:00 PM | A | A | A | A | N A | A | A |
-| 7:00 PM | A | A | A | A | N A | G A | A |
+| 8:00 AM | J N A | J A | N | J N | N | J | J |
+| 9:00 AM | J N A | J A | N | J N | N | J A | J |
+| 10:00 AM | J N A | J A | - | J N | N | J A | J |
+| 11:00 AM | J N A| J A | - | J N | N | J A | J |
+| 12:00 PM | J N A| J A | - | J N | J N | J A | J |
+| 1:00 PM | J N A| J | - | J | J N | J | J |
+| 2:00 PM | J N A| - | - | - | J N | J A | J A |
+| 3:00 PM | A | - | J | - | J N | J A | J A |
+| 4:00 PM | A | - | J | - | J N | J A | J A |
+| 5:00 PM | A | J A | J A | J A | J N A | J A | J A |
+| 6:00 PM | A | J A | J A | J A | J N A | J A | J A |
+| 7:00 PM | A | A | A | A | N A | A | A |
 | 8:00 PM | A | A | A | A | A | A | A |
 | 9:00 PM | A | A | A | - | A | A | A |
 
@@ -102,3 +102,4 @@ We will talk professionally and do our assignments on time and meet our responsi
 K Phang <br>
 Asadbek Ruziev <br>
 Neel Garde <br>
+Jacob Andrus <br>
