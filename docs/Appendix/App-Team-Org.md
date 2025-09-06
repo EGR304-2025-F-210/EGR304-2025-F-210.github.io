@@ -44,11 +44,11 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | N A | A | N A | N | N | - | - |
-| 9:00 AM | N A | A | N A| N | N | A | - |
-| 10:00 AM | N A | A | A | N | N | A | - |
-| 11:00 AM | N A| A | A | N | N | A | - |
-| 12:00 PM | N A| A | A | N | N | A | - |
+| 8:00 AM | N A | A | N  | N | N | - | - |
+| 9:00 AM | N A | A | N | N | N | A | - |
+| 10:00 AM | N A | A | - | N | N | A | - |
+| 11:00 AM | N A| A | - | N | N | A | - |
+| 12:00 PM | N A| A | - | N | N | A | - |
 | 1:00 PM | N A| - | - | - | N | - | - |
 | 2:00 PM | N A| - | - | - | N | A | A |
 | 3:00 PM | A | - | - | - | N | A | A |
