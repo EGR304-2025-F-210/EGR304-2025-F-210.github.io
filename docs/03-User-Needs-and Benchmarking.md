@@ -14,13 +14,13 @@ Our mission is to design and deliver a practical, market-relevant embedded power
 
 ### Selected Products
 
-#### 1. [Kidde multi hazard detector](https://www.amazon.com/s?k=environmental%2Bhazard%2Bdetector&ref=nb_sb_noss) < (link to the product)
+#### 1. [Kidde multi hazard detector](https://a.co/d/in1cRGL) < (link to the product)
 
-![](image1.png)
+![](kiddie2.png)
 
 **(include a picture)**
 
-* Price: $54.99
+* Price: $53.99
 
 * Vendor: Amazon
 
@@ -30,9 +30,18 @@ Our mission is to design and deliver a practical, market-relevant embedded power
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | "How much is your home worth? How much is YOUR LIFE, and the lives of those you love, really worth? This dual-function unit would be worth the protection it provides at DOUBLE the price. It is SO simple to use, yet so much better than cheaper units. It will show a reading of gas on its continuous display, BEFORE the amount will set off the alarm! This make it superior to any kind of alarm I have ever purchased before. Do you use natural gas for cooking or heating in your home? Then why are you still just sitting there reading? You NEED this alarm. Stop thinking of the price difference, for crying out loud. Your home AND your life are both PRICELESS. Be smart and responsible. BUY THIS UNIT NOW!
-" | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
+" | 1.  The product is very important for health and worth buying because life is priceless compared to product (explicit)                              |
+| Very flexible placement options. I bought this item to warn me about elevated propane levels near the gas dryer in my basement. As per the instructions, I placed the unit on the floor. To test it, I depressed the pin of a small Coleman propane gas cylinder that I held near the sensor. After a short while the sensor displayed “gas” on its screen and let out an alarm that could wake the dead. I feel protected.
+                                                                                                                                                                                        | 2.  Customer can feel protected and have more safety (explicit) |
+| The Kidde Carbon Monoxide and Explosive Gas Detector is an absolute must-have for every household. Safety is non-negotiable, and this device provides peace of mind like no other.
+
+Right out of the box, setup is a breeze—just plug it in, and you’re protected. The digital display is clear and easy to read, providing real-time updates on CO and gas levels. What truly sets this apart is the dual detection for both carbon monoxide and explosive gases, ensuring comprehensive coverage in one compact device.
+
+During testing (using safe methods), the alarm proved to be both sensitive and reliable. The loud, piercing sound is impossible to miss, making it effective in alerting you and your family in case of danger. It’s reassuring to know this device is constantly monitoring, even while we sleep.
+
+I also appreciate the sleek, unobtrusive design—it blends seamlessly into any room while remaining highly functional. With Kidde’s reputation for quality and reliability, I feel confident that this detector is working around the clock to protect my home and loved ones.
+
+Safety, simplicity, and top-notch performance—this detector delivers it all. Don’t wait until it’s too late—invest in this lifesaver today. Highly recommended for every home, apartment, or office!                                                                                                                                                                                        | 3.  Recommended for everyone for everyhome (latent)                               |
 
 ##### Negative Comments
 
@@ -142,7 +151,7 @@ I hope this helps anyone looking to decide on this purchase. It has been an abso
 ph detector for drinking water
 
 **Search Results Link:** <add your link here>
-[https://www.amazon.com/2025-All-New-Meter-Water-Certification/dp/B0F92GK3CT/ref=sr_1_2_sspa?adgrpid=1344703288250045&dib=eyJ2IjoiMSJ9.n0NOUtKAUb4eXlaLxJRc4lsOiirQBQtQ81VvhQy9WRq1SymizoHtzxl3xXEiaKAMoN2fZGGw-smfX_C7qTi2augE6KntESPWbaS_ouJHIlPmQGGLiNFrHM5dADQgDiVZ1SKfHZGZez1fAXd3oMxqKtt7PAL7Pxa7ZnIKeDNKtx0Pm9Fz3zKnDyWgFGhVf8MUEowNH8xK6CifPUgnve9VTjEkgY4fb8uCycVO9pu3bs8.Zmw2Y3YcilBA6v8uMxzmERTJE7B45Kebt3zqY8DXH9Y&dib_tag=se&hvadid=84044196064353&hvbmt=be&hvdev=c&hvlocphy=78088&hvnetw=o&hvqmt=e&hvtargid=kwd-84044307708264%3Aloc-190&hydadcr=20192_13329694&keywords=ph%2Bmeter%2Bdrinking%2Bwater&mcid=f18f18263c063419af12eefbe9eb256e&qid=1757998515&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1](https://www.amazon.com/2025-All-New-Meter-Water-Certification/dp/B0F92GK3CT/ref=sr_1_2_sspa?adgrpid=1344703288250045&dib=eyJ2IjoiMSJ9.n0NOUtKAUb4eXlaLxJRc4lsOiirQBQtQ81VvhQy9WRq1SymizoHtzxl3xXEiaKAMoN2fZGGw-smfX_C7qTi2augE6KntESPWbaS_ouJHIlPmQGGLiNFrHM5dADQgDiVZ1SKfHZGZez1fAXd3oMxqKtt7PAL7Pxa7ZnIKeDNKtx0Pm9Fz3zKnDyWgFGhVf8MUEowNH8xK6CifPUgnve9VTjEkgY4fb8uCycVO9pu3bs8.Zmw2Y3YcilBA6v8uMxzmERTJE7B45Kebt3zqY8DXH9Y&dib_tag=se&hvadid=84044196064353&hvbmt=be&hvdev=c&hvlocphy=78088&hvnetw=o&hvqmt=e&hvtargid=kwd-84044307708264%3Aloc-190&hydadcr=20192_13329694&keywords=ph%2Bmeter%2Bdrinking%2Bwater&mcid=f18f18263c063419af12eefbe9eb256e&qid=1757998515&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+[https://www.amazon.com/2025-All-New-Meter-Water-Certification/](https://www.amazon.com/2025-All-New-Meter-Water-Certification/dp/B0F92GK3CT/ref=sr_1_2_sspa?adgrpid=1344703288250045&dib=eyJ2IjoiMSJ9.n0NOUtKAUb4eXlaLxJRc4lsOiirQBQtQ81VvhQy9WRq1SymizoHtzxl3xXEiaKAMoN2fZGGw-smfX_C7qTi2augE6KntESPWbaS_ouJHIlPmQGGLiNFrHM5dADQgDiVZ1SKfHZGZez1fAXd3oMxqKtt7PAL7Pxa7ZnIKeDNKtx0Pm9Fz3zKnDyWgFGhVf8MUEowNH8xK6CifPUgnve9VTjEkgY4fb8uCycVO9pu3bs8.Zmw2Y3YcilBA6v8uMxzmERTJE7B45Kebt3zqY8DXH9Y&dib_tag=se&hvadid=84044196064353&hvbmt=be&hvdev=c&hvlocphy=78088&hvnetw=o&hvqmt=e&hvtargid=kwd-84044307708264%3Aloc-190&hydadcr=20192_13329694&keywords=ph%2Bmeter%2Bdrinking%2Bwater&mcid=f18f18263c063419af12eefbe9eb256e&qid=1757998515&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
 ![](https://m.media-amazon.com/images/I/71aDdOlKTTL._SX466_.jpg)
 
