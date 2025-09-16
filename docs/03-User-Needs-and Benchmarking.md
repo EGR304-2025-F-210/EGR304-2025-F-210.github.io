@@ -63,7 +63,7 @@ water quality tester
 
 ### [MEXYBE 4 in 1 Tds Meter Digital Water Tester](https://www.amazon.com/All-New-Meter-Digital-Water-Tester/dp/B0CTHWS8GX?crid=3W5YQF5MCB5L&dib=eyJ2IjoiMSJ9.C-HI3ll8hekZ5ZobF53ztXwuPDgwzU8Cj_w3pNx_1yZPXFxRz4g3MypQGESxtmu6p5U_sVgxvacb_7Vl23WSO6ReKi4_c3MkxwL8qD7lym_RtFSc1WEgebKO2GeOv_hYK1b31r41hzkQmi-5-WKExyNslHakWvAMU8SsWVR3wyT9Qef30qyIcHobmRU6CcVpdNRPAMBN6WrdseZ4_r3c-EkEfg9HdSaz315dLUtzMRY.Xtcx4Wdj2qjD0VZeBnHrdE0Xg7g26fZYxIezjyNxppQ&dib_tag=se&keywords=water%2Bquality%2Btester&qid=1757993454&sprefix=water%2Bquality%2Btester%2Caps%2C128&sr=8-3&th=1)
 
-![](waterTester1.jpg)
+![](https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif)
 
 
 * Price: $8.54
@@ -106,7 +106,7 @@ air quality tester
 
 ### [Airthings 2960 View Plus](https://www.amazon.com/Airthings-2960-View-Plus-Humidity/dp/B097YW5Q72?crid=3JKVTP8P7XGHN&dib=eyJ2IjoiMSJ9.HDz4e7D-xGpiZAI9N2PvbIMh3bHN27QhrdQOHfqU-bTGQTG-3uxeaJ8aaXy_CE5j3zOGyNOKZAId-nRhTEN3m8QvYw9JBjzZaFlZk1MntDLKg50idK1R1vueyFflHOsKCYmIjpZdcuUm2pKlMZ3kcHsp8V5unaWSgLUDLgngZs_DK8JIn3a13_37ASJH4coynEQitQPAAPdWa0waro7NNicSRc6P_toeNPgVwhuyea0.R23oyBI7zrYQ2U8sf3iFC9EuXZkGcco9x7alUPIqfb0&dib_tag=se&keywords=air%2Bquality%2Bmonitor&qid=1757996564&sprefix=air%2Bquality%2Bmonitor%2Caps%2C151&sr=8-16&th=1)
 
-![](airTester1.jpg)
+![](https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif)
 
 
 * Price: $329.99
@@ -185,6 +185,8 @@ environmental hazard monitoring system
 * Price: $139.99
 
 * Vendor: Amazon
+
+![](https://m.media-amazon.com/images/I/71VGevOJbeL._AC_SX679_.jpg)
 
 * Description: This 9-in-1 indoor air quality monitor detects PM 1.0, PM2.5, PM10, CO2, temperature, formaldehyde, humidity, TVOC, and time. It features a high-definition color screen for easy reading and is portable with a built-in rechargeable battery. The device is suitable for various spaces like grow rooms, offices, and cars.
 
