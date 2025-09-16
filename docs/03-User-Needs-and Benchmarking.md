@@ -169,7 +169,29 @@ Water pH Detector
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | Users need a quick and accurate measurement of pH |
 | "This PH tester seems to be working well ! It quickly measures the PH within seconds. The read out is fast and accurate as I used another brand as well . I had it tested and it is completely accurate. I like the small size and portable one ! Good value at this low a price"
 
-#### 5. Next Product goes here
+#### 5.  [Performance Guru 9-in-1 Indoor Air Quality Monitor](https://www.amazon.com/Professional-Portable-Temperature-Formaldehyde-Detector/dp/B0DMSMR24Q) < (link to the product)
+
+![](performanceGuru.jpg)
+
+* Price: $139.99 (check listing for current price)
+* Vendor: Amazon
+* Description: A portable indoor air quality monitor that measures PM2.5, PM10, CO₂, HCHO (formaldehyde), TVOC, temperature, humidity, and time on a high-definition color display. Rechargeable battery lasts up to 16 hours. Readings refresh every 1–2 seconds.
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                               | Restated Customer Need                                                                 |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| "Easy to use, accurate, and clear display. I could see everything at a glance."                                     | 1. The device requires minimal setup and is easy to operate (explicit)                 |
+| "Shows multiple pollutants on one screen — very helpful for indoor air checks."                                     | 2. The device displays multiple parameters in a single view (explicit)                 |
+| "Rechargeable battery lasts long enough to check different rooms easily."                                           | 3. The device is portable and has sufficient battery life for household use (explicit) |
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                               | Restated Customer Need                                                                 |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| "Readings seem off compared to professional equipment."                                                             | 1. The device should provide reliable, accurate readings under normal conditions (latent) |
+| "Screen is hard to read in sunlight."                                                                               | 2. The device should remain readable under bright lighting conditions (latent)         |
+| "Values drift after running for a while; needs recalibration."                                                       | 3. The device should maintain stable readings over time or provide simple calibration steps (latent) |
 
 
 ## Organized Need Statements
