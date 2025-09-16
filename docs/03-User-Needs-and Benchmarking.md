@@ -1,19 +1,88 @@
 ---
 title: User Needs and Benchmarking
-tags:
-- tag1
-- tag2
 ---
 
-Our mission is to design and deliver a practical, market-relevant embedded power systems project that balances commercial viability with educational growth. By focusing on achievable scope, profitability, and real-world need, we aim to sharpen our skills in embedded systems, coding, sensors, and solid-state electronics—building both technical expertise and entrepreneurial insight while completing a product that genuinely serves its users.
+Our mission is to design and deliver a practical, market-relevant embedded power systems project that balances commercial viability with environmental growth for all people. By focusing on achievable scope, profitability, and real-world need, we aim to sharpen our skills in embedded systems, coding, sensors, and solid-state electronics—building both technical expertise and entrepreneurial insight while completing a product that genuinely serves its users.
 
-## Esse quoque sedem plena nunc iecur
+## Voice of the Customer Benchmarking
 
-Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
-mea. Nec tamen quae gravem, potens, [cognoscendo
-scripta](http://vidit-lumine.io/sinusdeum). *Nihil ventis Aeneae* probat.
+### Search #1
 
-1. listum primo
+**Keywords:** "Environmental hazard detector"
+
+**Search Results Link:** [https://www.amazon.com/s?k=environmental%2Bhazard%2Bdetector&ref=nb_sb_noss](https://www.amazon.com/s?k=environmental%2Bhazard%2Bdetector&ref=nb_sb_noss)
+
+### Selected Products
+
+#### 1. [Kidde multi hazard detector](https://www.amazon.com/s?k=environmental%2Bhazard%2Bdetector&ref=nb_sb_noss) < (link to the product)
+
+![](image1.png)
+
+**(include a picture)**
+
+* Price: $54.99
+
+* Vendor: Amazon
+
+* Description: The product can detect carbon conoxide, propane, natural, nethane, & explosive gas Alarm. The product can be plugged-in to the all with 9-Volt Battery Backup. Also, it includes digital LED Display. Peak Level Memory records the last time carbon monoxide was detected or when the unit was tested. The Smart-Hush button silences the unit for approximately 8 minutes, which is helpful when this smoke detector carbon monoxide detector combo sounds from things like routine cooking or shower steam.
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "How much is your home worth? How much is YOUR LIFE, and the lives of those you love, really worth? This dual-function unit would be worth the protection it provides at DOUBLE the price. It is SO simple to use, yet so much better than cheaper units. It will show a reading of gas on its continuous display, BEFORE the amount will set off the alarm! This make it superior to any kind of alarm I have ever purchased before. Do you use natural gas for cooking or heating in your home? Then why are you still just sitting there reading? You NEED this alarm. Stop thinking of the price difference, for crying out loud. Your home AND your life are both PRICELESS. Be smart and responsible. BUY THIS UNIT NOW!
+" | 1.  The kit is perceived as more than a toy (explicit)                              |
+|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
+|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "I had an all home generator installed which included our propane company to come perform a leak check. They found a significant leak in my home and took measures to repair. They recommended I purchase a detector -- I informed them I had three (3) in my home; one on each floor. They gasped. I showed them where the main floor detector was plugged in -- again gasped. The service employee said the one of the three should absolutely have picked up the leak as one detector was right above the leak and the basement detector was right below. Never did either go off and I check the readout's constantly as they are in my sight when walking by. Not impressed . . . at all.
+" | 1.  The kit is robust. (explicit)                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
+
+#### 2. Next Product goes here
+
+### Search #2
+
+(you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
+
+**Keywords:** <list an alternative search you did, if applicable>
+
+**Search Results Link:** <add your link here>
+
+### Selected Products
+
+#### 3. Next Product goes here
+
+#### 4. Next Product goes here
+
+#### 5. Next Product goes here
+
+
+## Organized Need Statements
+
+### First Placement
+
+### Grouped with categories
+
+### Ranked
+
+## Compiled list of user Needs
+
+1. The device will...
+1. The device is ...
+1. The device can ...
+100. The device is...
+
+
+
+
+## Search 1 by Asadbek
+
+
 
     discusso el codex:
 
