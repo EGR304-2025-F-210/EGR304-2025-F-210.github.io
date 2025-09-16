@@ -14,13 +14,13 @@ Our mission is to design and deliver a practical, market-relevant embedded power
 
 ### Selected Products
 
-#### 1. [Kidde multi hazard detector](https://www.amazon.com/s?k=environmental%2Bhazard%2Bdetector&ref=nb_sb_noss) < (link to the product)
+#### 1. [Kidde multi hazard detector](https://a.co/d/in1cRGL) < (link to the product)
 
-![](image1.png)
+![Kiddie](kiddie2.png)
 
 **(include a picture)**
 
-* Price: $54.99
+* Price: $53.99
 
 * Vendor: Amazon
 
@@ -30,9 +30,18 @@ Our mission is to design and deliver a practical, market-relevant embedded power
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | "How much is your home worth? How much is YOUR LIFE, and the lives of those you love, really worth? This dual-function unit would be worth the protection it provides at DOUBLE the price. It is SO simple to use, yet so much better than cheaper units. It will show a reading of gas on its continuous display, BEFORE the amount will set off the alarm! This make it superior to any kind of alarm I have ever purchased before. Do you use natural gas for cooking or heating in your home? Then why are you still just sitting there reading? You NEED this alarm. Stop thinking of the price difference, for crying out loud. Your home AND your life are both PRICELESS. Be smart and responsible. BUY THIS UNIT NOW!
-" | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
+" | 1.  The product is very important for health and worth buying because life is priceless compared to product (explicit)                              |
+| Very flexible placement options. I bought this item to warn me about elevated propane levels near the gas dryer in my basement. As per the instructions, I placed the unit on the floor. To test it, I depressed the pin of a small Coleman propane gas cylinder that I held near the sensor. After a short while the sensor displayed “gas” on its screen and let out an alarm that could wake the dead. I feel protected.
+                                                                                                                                                                                        | 2.  Customer can feel protected and have more safety (explicit) |
+| The Kidde Carbon Monoxide and Explosive Gas Detector is an absolute must-have for every household. Safety is non-negotiable, and this device provides peace of mind like no other.
+
+Right out of the box, setup is a breeze—just plug it in, and you’re protected. The digital display is clear and easy to read, providing real-time updates on CO and gas levels. What truly sets this apart is the dual detection for both carbon monoxide and explosive gases, ensuring comprehensive coverage in one compact device.
+
+During testing (using safe methods), the alarm proved to be both sensitive and reliable. The loud, piercing sound is impossible to miss, making it effective in alerting you and your family in case of danger. It’s reassuring to know this device is constantly monitoring, even while we sleep.
+
+I also appreciate the sleek, unobtrusive design—it blends seamlessly into any room while remaining highly functional. With Kidde’s reputation for quality and reliability, I feel confident that this detector is working around the clock to protect my home and loved ones.
+
+Safety, simplicity, and top-notch performance—this detector delivers it all. Don’t wait until it’s too late—invest in this lifesaver today. Highly recommended for every home, apartment, or office!                                                                                                                                                                                        | 3.  Recommended for everyone for everyhome (latent)                               |
 
 ##### Negative Comments
 
@@ -54,7 +63,7 @@ water quality tester
 
 ### [MEXYBE 4 in 1 Tds Meter Digital Water Tester](https://www.amazon.com/All-New-Meter-Digital-Water-Tester/dp/B0CTHWS8GX?crid=3W5YQF5MCB5L&dib=eyJ2IjoiMSJ9.C-HI3ll8hekZ5ZobF53ztXwuPDgwzU8Cj_w3pNx_1yZPXFxRz4g3MypQGESxtmu6p5U_sVgxvacb_7Vl23WSO6ReKi4_c3MkxwL8qD7lym_RtFSc1WEgebKO2GeOv_hYK1b31r41hzkQmi-5-WKExyNslHakWvAMU8SsWVR3wyT9Qef30qyIcHobmRU6CcVpdNRPAMBN6WrdseZ4_r3c-EkEfg9HdSaz315dLUtzMRY.Xtcx4Wdj2qjD0VZeBnHrdE0Xg7g26fZYxIezjyNxppQ&dib_tag=se&keywords=water%2Bquality%2Btester&qid=1757993454&sprefix=water%2Bquality%2Btester%2Caps%2C128&sr=8-3&th=1)
 
-![](waterTester1.jpg)
+![](https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif)
 
 
 * Price: $8.54
@@ -97,7 +106,7 @@ air quality tester
 
 ### [Airthings 2960 View Plus](https://www.amazon.com/Airthings-2960-View-Plus-Humidity/dp/B097YW5Q72?crid=3JKVTP8P7XGHN&dib=eyJ2IjoiMSJ9.HDz4e7D-xGpiZAI9N2PvbIMh3bHN27QhrdQOHfqU-bTGQTG-3uxeaJ8aaXy_CE5j3zOGyNOKZAId-nRhTEN3m8QvYw9JBjzZaFlZk1MntDLKg50idK1R1vueyFflHOsKCYmIjpZdcuUm2pKlMZ3kcHsp8V5unaWSgLUDLgngZs_DK8JIn3a13_37ASJH4coynEQitQPAAPdWa0waro7NNicSRc6P_toeNPgVwhuyea0.R23oyBI7zrYQ2U8sf3iFC9EuXZkGcco9x7alUPIqfb0&dib_tag=se&keywords=air%2Bquality%2Bmonitor&qid=1757996564&sprefix=air%2Bquality%2Bmonitor%2Caps%2C151&sr=8-16&th=1)
 
-![](airTester1.jpg)
+![](https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif)
 
 
 * Price: $329.99
@@ -110,25 +119,15 @@ air quality tester
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "I  have had this unit for almost 2 years now, I will buy another. It literally saved my life!
-
-If you work from home, like I do, then you need this unit or something like it. I had Radon levels above 7pCi/L and had been living with it without knowing it, for almost 3 years. For those that don't know, Radon is a radioactive breakdown of uranium, thorium, or radium in rocks, soil, and groundwater. The CDC and EPA claim that levels above 4pCi/L are considered highly toxic and proper mitigation should be taken to reduce the levels. This is why Radon mitigation systems are installed in nearly every home across the United States.
-
+| "I  have had this unit for almost 2 years now, I will buy another. It literally saved my life! If you work from home, like I do, then you need this unit or something like it. I had Radon levels above 7pCi/L and had been living with it without knowing it, for almost 3 years. For those that don't know, Radon is a radioactive breakdown of uranium, thorium, or radium in rocks, soil, and groundwater. The CDC and EPA claim that levels above 4pCi/L are considered highly toxic and proper mitigation should be taken to reduce the levels. This is why Radon mitigation systems are installed in nearly every home across the United States.
 If you don't know, educate yourself about Radon and understand that radon causes over 21,000 lung cancer deaths in the United States each year and 2,900 of those deaths are people that have never smoked a day in their lives! For me, every now and then, I would cough and a small spat of blood would sometimes appear and i could never figure out why...
-
 Now, do you NEED this system?
-
-- Absolutely not, there are plenty of radon detectors out there and they are pretty cheap.
-
+- Absolutely not, there are plenty of radon detectors out there and they are pretty cheap
 Why do I recommend this system and why did I choose it?
-
 - Historical Data: This bad boy tracks all of your air quality metrics over time. This is extremely important when you want to understand cause and effect in anything in life. Many of the "bad reviews" talk about how some of the metrics displayed are inaccurate when compared to another device that specializes in one or many of the metrics this unit does display. Accurate comparisons only matter when comparing against a controlled environment and are purely for the sake of argument. This is important to understand because no unit needs to be 100% accurate, it just needs to be accurate to itself so that when you make a change, you can properly see that the change is affecting the metrics in a way that makes sense for what you meant to accomplish.
 For example, I had high radon (the value of the metric didn't matter other than the fact that it is higher than 0... it's radioactivity, is anything above 0 TRULY acceptable?) When I installed my radon mitigation system, I could watch my Radon levels drop tremendously over time, which proved that my radon mitigation system was actually working as expected! Also, I haven't had any spots of blood appear when I cough... I call this a success.
-
 - Dashboard: Airthings has a nice application and semi-customizable dashboard which makes viewing really easy to do, and from anywhere in the world. When my pets are home while the family is away, I can notify my neighbor to open a window to let some fresh air in, while we're away.
-
 - Alerts: Always cool to have alerts so you don't even need to "monitor" the metrics. Fun fact, CO2 builds up pretty rapidly in a well-sealed home. When you go through insulation techniques to seal off cracks and crevices to improve your HVAC efficiency in the thermal zone, it is easy to forget that CO2 has no easy escape. Needless to say, this little guy alerted my phone and I was able to crack a window and keep my family safe. I later installed a fresh air intake on my HVAC system and again, could watch the metrics historically, as they fell to a more than acceptable range, yet again proving that my air intake installation was actually doing its job.
-
 I hope this helps anyone looking to decide on this purchase. It has been an absolute godsend to have in our home and I didn't even get into some of the other things it helped me solve that had been plaguing us.
 " | 1.  The device's warning improved the user's health by alerting them to install a mitigation system(explicit)                              |
 |                                                                                                                                                                                        | 2.  The device's logging capabilities allowed the user to test the efficacy of their mitigation system (explicit) |
@@ -175,7 +174,37 @@ ph detector for drinking water
 ---------------------------------------------------------------------------------------- |
 |"It works but It is soooooooo slooooow"| Users need a quick read-out of pH measurements|
 
-#### 5. Next Product goes here
+#### 5. 
+environmental hazard monitoring system
+
+**Search Results Link:** <add your link here>
+[environmental hazard monitoring system](https://www.amazon.com/s?k=environmental+hazard+monitoring+system)
+
+### [9-in-1 Professional Indoor Air Quality Monitor Portable PM2.5/PM10/CO2, Temperature, Formaldehyde Detector, Humidity TVOC,Time Display Air Quality Tester - Confined Space Clean Air Monitor (Green)](https://www.amazon.com/Professional-Portable-Temperature-Formaldehyde-Detector/dp/B0DMSMR24Q/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY)
+
+
+* Price: $139.99
+
+* Vendor: Amazon
+
+![](https://m.media-amazon.com/images/I/71VGevOJbeL._AC_SX679_.jpg)
+
+* Description: This 9-in-1 indoor air quality monitor detects PM 1.0, PM2.5, PM10, CO2, temperature, formaldehyde, humidity, TVOC, and time. It features a high-definition color screen for easy reading and is portable with a built-in rechargeable battery. The device is suitable for various spaces like grow rooms, offices, and cars.
+
+#### Positives
+| Feedback (from reviews) | Restated User Need | Explicit / Latent |
+|---|---|---|
+| “Easy to use / setup is simple; values are clear; color-coded GOOD/BAD indicator.” | The device requires minimal setup and provides clear, at-a-glance status (GOOD/BAD, color coding). | Explicit |
+| “Measures PM2.5, PM10, CO₂, HCHO, TVOC, temperature, humidity in real time; beeps/red warning during events (cooking, close breathing).” | The device monitors multiple pollutants with real-time alerts for unsafe levels. | Explicit |
+| “Portable; usable on battery; convenient to move room-to-room or wall-mount.” | The device supports flexible placement with battery operation and mounting options. | Explicit |
+
+#### Negatives
+| Feedback (from reviews) | Restated User Need | Explicit / Latent |
+|---|---|---|
+| “Accuracy issues (e.g., temperature off by ~15°; humidity ‘way inaccurate’), loss of confidence.” | Measurements must remain within acceptable tolerances across all sensors to maintain trust. | Explicit |
+| “Takes a few minutes to show stable readings.” | The device should have a short warm-up/stabilization time before readings are reliable. | Latent |
+| “Battery doesn’t last long for all-day unplugged use (had to keep it plugged).” | The device should provide longer unplugged runtime without sacrificing performance. | Explicit |
+
 
 
 ## Organized Need Statements
