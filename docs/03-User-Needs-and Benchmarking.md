@@ -144,7 +144,7 @@ I hope this helps anyone looking to decide on this purchase. It has been an abso
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The app is not well optimized for multi-sensor applications. (explicit) |
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The need for a hub forces the user into a vendor-lock-in ecosystem (latent)           |
 
-#### 3. Water pH Detectors
+#### 4. Water pH Detectors
 
 ### Search #4
 
