@@ -86,7 +86,64 @@ So really cool and seems to work really well, didn’t even realize it had a tem
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The user would like some way of calibrating or ensuring accuracy of the unit (latent)           |
 
 
-#### 3. Next Product goes here
+#### 3. Air Quality Testers
+
+### Search #3
+
+air quality tester
+
+**Search Results Link:** <add your link here>
+[https://www.amazon.com/s?k=air+quality+monitor&crid=3JKVTP8P7XGHN&sprefix=air+quality+monitor%2Caps%2C1518](https://www.amazon.com/s?k=air+quality+monitor&crid=3JKVTP8P7XGHN&sprefix=air+quality+monitor%2Caps%2C151)
+
+### [Airthings 2960 View Plus](https://www.amazon.com/Airthings-2960-View-Plus-Humidity/dp/B097YW5Q72?crid=3JKVTP8P7XGHN&dib=eyJ2IjoiMSJ9.HDz4e7D-xGpiZAI9N2PvbIMh3bHN27QhrdQOHfqU-bTGQTG-3uxeaJ8aaXy_CE5j3zOGyNOKZAId-nRhTEN3m8QvYw9JBjzZaFlZk1MntDLKg50idK1R1vueyFflHOsKCYmIjpZdcuUm2pKlMZ3kcHsp8V5unaWSgLUDLgngZs_DK8JIn3a13_37ASJH4coynEQitQPAAPdWa0waro7NNicSRc6P_toeNPgVwhuyea0.R23oyBI7zrYQ2U8sf3iFC9EuXZkGcco9x7alUPIqfb0&dib_tag=se&keywords=air%2Bquality%2Bmonitor&qid=1757996564&sprefix=air%2Bquality%2Bmonitor%2Caps%2C151&sr=8-16&th=1)
+
+![](airTester1.jpg)
+
+
+* Price: $329.99
+
+* Vendor: Amazon
+
+* Description: A fixed home air quality monitoring device with a small screen and mobile phone connectivity for logging and detailed output. Measures radon, C02, VOCs, humidity, temperature and pressure.
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "I  have had this unit for almost 2 years now, I will buy another. It literally saved my life!
+
+If you work from home, like I do, then you need this unit or something like it. I had Radon levels above 7pCi/L and had been living with it without knowing it, for almost 3 years. For those that don't know, Radon is a radioactive breakdown of uranium, thorium, or radium in rocks, soil, and groundwater. The CDC and EPA claim that levels above 4pCi/L are considered highly toxic and proper mitigation should be taken to reduce the levels. This is why Radon mitigation systems are installed in nearly every home across the United States.
+
+If you don't know, educate yourself about Radon and understand that radon causes over 21,000 lung cancer deaths in the United States each year and 2,900 of those deaths are people that have never smoked a day in their lives! For me, every now and then, I would cough and a small spat of blood would sometimes appear and i could never figure out why...
+
+Now, do you NEED this system?
+
+- Absolutely not, there are plenty of radon detectors out there and they are pretty cheap.
+
+Why do I recommend this system and why did I choose it?
+
+- Historical Data: This bad boy tracks all of your air quality metrics over time. This is extremely important when you want to understand cause and effect in anything in life. Many of the "bad reviews" talk about how some of the metrics displayed are inaccurate when compared to another device that specializes in one or many of the metrics this unit does display. Accurate comparisons only matter when comparing against a controlled environment and are purely for the sake of argument. This is important to understand because no unit needs to be 100% accurate, it just needs to be accurate to itself so that when you make a change, you can properly see that the change is affecting the metrics in a way that makes sense for what you meant to accomplish.
+For example, I had high radon (the value of the metric didn't matter other than the fact that it is higher than 0... it's radioactivity, is anything above 0 TRULY acceptable?) When I installed my radon mitigation system, I could watch my Radon levels drop tremendously over time, which proved that my radon mitigation system was actually working as expected! Also, I haven't had any spots of blood appear when I cough... I call this a success.
+
+- Dashboard: Airthings has a nice application and semi-customizable dashboard which makes viewing really easy to do, and from anywhere in the world. When my pets are home while the family is away, I can notify my neighbor to open a window to let some fresh air in, while we're away.
+
+- Alerts: Always cool to have alerts so you don't even need to "monitor" the metrics. Fun fact, CO2 builds up pretty rapidly in a well-sealed home. When you go through insulation techniques to seal off cracks and crevices to improve your HVAC efficiency in the thermal zone, it is easy to forget that CO2 has no easy escape. Needless to say, this little guy alerted my phone and I was able to crack a window and keep my family safe. I later installed a fresh air intake on my HVAC system and again, could watch the metrics historically, as they fell to a more than acceptable range, yet again proving that my air intake installation was actually doing its job.
+
+I hope this helps anyone looking to decide on this purchase. It has been an absolute godsend to have in our home and I didn't even get into some of the other things it helped me solve that had been plaguing us.
+" | 1.  The device's warning improved the user's health by alerting them to install a mitigation system(explicit)                              |
+|                                                                                                                                                                                        | 2.  The device's logging capabilities allowed the user to test the efficacy of their mitigation system (explicit) |
+|                                                                                                                                                                                        | 3.  The multi-contaminant nature of the system was helpful at dealing with a semi-common residential case. (explicit)                               |
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "1. The app can be more optimized for the enhance. For example, the app does not show the remaining battery life which is on the web dashboard.
+2. It maybe a good idea to add “identifying sensor” to the app. If consumer bought multiple units with the same looks, they can easily mixed up the sensors. It is difficult to tell which is which. For instance, the “find the sensor” may trigger the one to blink signal light. It is the feature I saw on my wifi mesh equipments.
+3. It works without hub from my understanding. However, to get real time data, it requires a Airthings hub. I have a wave view plus at ground level, therefore, it was not an issue to me.
+" | 1.  The app does not have good battery readout. (explicit)                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The app is not well optimized for multi-sensor applications. (explicit) |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The need for a hub forces the user into a vendor-lock-in ecosystem (latent)           |
 
 #### 4. Next Product goes here
 
