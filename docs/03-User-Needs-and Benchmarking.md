@@ -16,7 +16,7 @@ Our mission is to design and deliver a practical, market-relevant embedded power
 
 #### 1. [Kidde multi hazard detector](https://a.co/d/in1cRGL) < (link to the product)
 
-![Kiddie](kiddie2.png)
+![Kiddie](image/kiddie2.png)
 
 **(include a picture)**
 
