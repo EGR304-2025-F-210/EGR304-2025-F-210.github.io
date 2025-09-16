@@ -168,6 +168,12 @@ ph detector for drinking water
 |
 
 ##### Negative Comments
+| Feedback (from reviews) | Restated User Need | Explicit / Latent |
+|---|---|---|
+|Feedback 1 here|User need here|Ex/Latent|
+|Feedback 1 here|User need here|Ex/Latent|
+|Feedback 1 here|User need here|Ex/Latent|
+
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
