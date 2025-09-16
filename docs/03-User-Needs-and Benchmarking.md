@@ -173,7 +173,35 @@ ph detector for drinking water
 | "It works but It is soooooooo slooooow" | Users need a quick read-out of pH measurements |
 |
 
-#### 5. Next Product goes here
+#### 5. 
+environmental hazard monitoring system
+
+**Search Results Link:** <add your link here>
+[environmental hazard monitoring system](https://www.amazon.com/s?k=environmental+hazard+monitoring+system)
+
+### [9-in-1 Professional Indoor Air Quality Monitor Portable PM2.5/PM10/CO2, Temperature, Formaldehyde Detector, Humidity TVOC,Time Display Air Quality Tester - Confined Space Clean Air Monitor (Green)](https://www.amazon.com/Professional-Portable-Temperature-Formaldehyde-Detector/dp/B0DMSMR24Q/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY)
+
+
+* Price: $139.99
+
+* Vendor: Amazon
+
+* Description: This 9-in-1 indoor air quality monitor detects PM 1.0, PM2.5, PM10, CO2, temperature, formaldehyde, humidity, TVOC, and time. It features a high-definition color screen for easy reading and is portable with a built-in rechargeable battery. The device is suitable for various spaces like grow rooms, offices, and cars.
+
+#### Positives
+| Feedback (from reviews) | Restated User Need | Explicit / Latent |
+|---|---|---|
+| “Easy to use / setup is simple; values are clear; color-coded GOOD/BAD indicator.” | The device requires minimal setup and provides clear, at-a-glance status (GOOD/BAD, color coding). | Explicit |
+| “Measures PM2.5, PM10, CO₂, HCHO, TVOC, temperature, humidity in real time; beeps/red warning during events (cooking, close breathing).” | The device monitors multiple pollutants with real-time alerts for unsafe levels. | Explicit |
+| “Portable; usable on battery; convenient to move room-to-room or wall-mount.” | The device supports flexible placement with battery operation and mounting options. | Explicit |
+
+#### Negatives
+| Feedback (from reviews) | Restated User Need | Explicit / Latent |
+|---|---|---|
+| “Accuracy issues (e.g., temperature off by ~15°; humidity ‘way inaccurate’), loss of confidence.” | Measurements must remain within acceptable tolerances across all sensors to maintain trust. | Explicit |
+| “Takes a few minutes to show stable readings.” | The device should have a short warm-up/stabilization time before readings are reliable. | Latent |
+| “Battery doesn’t last long for all-day unplugged use (had to keep it plugged).” | The device should provide longer unplugged runtime without sacrificing performance. | Explicit |
+
 
 
 ## Organized Need Statements
