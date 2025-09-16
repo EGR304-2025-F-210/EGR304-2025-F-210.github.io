@@ -43,17 +43,39 @@ Our mission is to design and deliver a practical, market-relevant embedded power
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
 
-#### 2. Next Product goes here
+#### 2. Water Quality Testers
 
 ### Search #2
 
-(you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
-
-**Keywords:** <list an alternative search you did, if applicable>
+water quality tester
 
 **Search Results Link:** <add your link here>
+[https://www.amazon.com/s?k=water+quality+tester&crid=3W5YQF5MCB5L&sprefix=water+quality+tester%2Caps%2C128](https://www.amazon.com/s?k=water+quality+tester&crid=3W5YQF5MCB5L&sprefix=water+quality+tester%2Caps%2C128)
 
-### Selected Products
+### [MEXYBE 4 in 1 Tds Meter Digital Water Tester](https://www.amazon.com/All-New-Meter-Digital-Water-Tester/dp/B0CTHWS8GX?crid=3W5YQF5MCB5L&dib=eyJ2IjoiMSJ9.C-HI3ll8hekZ5ZobF53ztXwuPDgwzU8Cj_w3pNx_1yZPXFxRz4g3MypQGESxtmu6p5U_sVgxvacb_7Vl23WSO6ReKi4_c3MkxwL8qD7lym_RtFSc1WEgebKO2GeOv_hYK1b31r41hzkQmi-5-WKExyNslHakWvAMU8SsWVR3wyT9Qef30qyIcHobmRU6CcVpdNRPAMBN6WrdseZ4_r3c-EkEfg9HdSaz315dLUtzMRY.Xtcx4Wdj2qjD0VZeBnHrdE0Xg7g26fZYxIezjyNxppQ&dib_tag=se&keywords=water%2Bquality%2Btester&qid=1757993454&sprefix=water%2Bquality%2Btester%2Caps%2C128&sr=8-3&th=1)
+
+![](waterTester1.jpg)
+
+
+* Price: $8.54
+
+* Vendor: Amazon
+
+* Description: A handheld water tester device with an LCD unit and green/red backlight to indicate contamination levels. Two titanium probes are used as the main sensing elements, claiming to detect TDS (total dissolved solids), electrical conductivity and temperature. 
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Wanted mom to drink my filtered water I get from my rain barrel and clean. Said store bought is better. I got several layers of filters to clean it more and she said no, but dad loved it. Then got a UV-C light to get 100% comfort on disinfection. Mom still said no.
+
+So got this to prove the cleanliness of the water and checked a bottle of water and got 34. Wells within 0-50. So I tried my water at various stages of clean. After the initial screens and uv-c light. It’s already 14-16. Add the extra filters and a pass through a brita filter and down to 11. Mom still not convinced hehe. Even aunts distilled water was only down to 7. So thought “let’s check the well water too!” Big mistake as the screen turned dark red as it displayed 1760 and basically told me to run.
+
+So really cool and seems to work really well, didn’t even realize it had a temperature control feature, but the readability of the screen and size of the device are really nice and helped give me more comfort in my drinking water.
+" | 1.  The results aligning with the user's intuition gives them faith in the accuracy (explicit)                              |
+|                                                                                                                                                                                        | 2.  The device's size makes it convenient (explicit) |
+|                                                                                                                                                                                        | 3.  The colour LCD warning is appreciated for ease of measurement. (latent)                               |
+
 
 #### 3. Next Product goes here
 
