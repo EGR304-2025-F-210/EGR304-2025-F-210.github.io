@@ -169,6 +169,12 @@ ph detector for drinking water
 |
 
 ##### Negative Comments
+| Feedback (from reviews) | Restated User Need | Explicit / Latent |
+|---|---|---|
+|Feedback 1 here|User need here|Ex/Latent|
+|Feedback 1 here|User need here|Ex/Latent|
+|Feedback 1 here|User need here|Ex/Latent|
+
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
 | "It works but It is soooooooo slooooow" | Users need a quick read-out of pH measurements |
@@ -187,9 +193,9 @@ environmental hazard monitoring system
 
 * Vendor: Amazon
 
-![](https://m.media-amazon.com/images/I/71VGevOJbeL._AC_SX679_.jpg)
-
 * Description: This 9-in-1 indoor air quality monitor detects PM 1.0, PM2.5, PM10, CO2, temperature, formaldehyde, humidity, TVOC, and time. It features a high-definition color screen for easy reading and is portable with a built-in rechargeable battery. The device is suitable for various spaces like grow rooms, offices, and cars.
+
+![](https://m.media-amazon.com/images/I/71VGevOJbeL._AC_SX679_.jpg)
 
 #### Positives
 | Feedback (from reviews) | Restated User Need | Explicit / Latent |
