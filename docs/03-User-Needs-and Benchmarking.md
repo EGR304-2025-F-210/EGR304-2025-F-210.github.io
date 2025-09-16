@@ -169,29 +169,35 @@ Water pH Detector
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | Users need a quick and accurate measurement of pH |
 | "This PH tester seems to be working well ! It quickly measures the PH within seconds. The read out is fast and accurate as I used another brand as well . I had it tested and it is completely accurate. I like the small size and portable one ! Good value at this low a price"
 
-#### 5.  [Performance Guru 9-in-1 Indoor Air Quality Monitor](https://www.amazon.com/Professional-Portable-Temperature-Formaldehyde-Detector/dp/B0DMSMR24Q) < (link to the product)
+#### 5. 
+environmental hazard monitoring system
 
-![](performanceGuru.jpg)
+**Search Results Link:** <add your link here>
+[environmental hazard monitoring system](https://www.amazon.com/s?k=environmental+hazard+monitoring+system)
 
-* Price: $139.99 (check listing for current price)
+### [9-in-1 Professional Indoor Air Quality Monitor Portable PM2.5/PM10/CO2, Temperature, Formaldehyde Detector, Humidity TVOC,Time Display Air Quality Tester - Confined Space Clean Air Monitor (Green)](https://www.amazon.com/Professional-Portable-Temperature-Formaldehyde-Detector/dp/B0DMSMR24Q/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY)
+
+
+* Price: $139.99
+
 * Vendor: Amazon
-* Description: A portable indoor air quality monitor that measures PM2.5, PM10, CO₂, HCHO (formaldehyde), TVOC, temperature, humidity, and time on a high-definition color display. Rechargeable battery lasts up to 16 hours. Readings refresh every 1–2 seconds.
 
-##### Positive Comments
+* Description: This 9-in-1 indoor air quality monitor detects PM 1.0, PM2.5, PM10, CO2, temperature, formaldehyde, humidity, TVOC, and time. It features a high-definition color screen for easy reading and is portable with a built-in rechargeable battery. The device is suitable for various spaces like grow rooms, offices, and cars.
 
-| Voice of the Customer                                                                                               | Restated Customer Need                                                                 |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| "Easy to use, accurate, and clear display. I could see everything at a glance."                                     | 1. The device requires minimal setup and is easy to operate (explicit)                 |
-| "Shows multiple pollutants on one screen — very helpful for indoor air checks."                                     | 2. The device displays multiple parameters in a single view (explicit)                 |
-| "Rechargeable battery lasts long enough to check different rooms easily."                                           | 3. The device is portable and has sufficient battery life for household use (explicit) |
+#### Positives
+| Feedback (from reviews) | Restated User Need | Explicit / Latent |
+|---|---|---|
+| “Easy to use / setup is simple; values are clear; color-coded GOOD/BAD indicator.” | The device requires minimal setup and provides clear, at-a-glance status (GOOD/BAD, color coding). | Explicit |
+| “Measures PM2.5, PM10, CO₂, HCHO, TVOC, temperature, humidity in real time; beeps/red warning during events (cooking, close breathing).” | The device monitors multiple pollutants with real-time alerts for unsafe levels. | Explicit |
+| “Portable; usable on battery; convenient to move room-to-room or wall-mount.” | The device supports flexible placement with battery operation and mounting options. | Explicit |
 
-##### Negative Comments
+#### Negatives
+| Feedback (from reviews) | Restated User Need | Explicit / Latent |
+|---|---|---|
+| “Accuracy issues (e.g., temperature off by ~15°; humidity ‘way inaccurate’), loss of confidence.” | Measurements must remain within acceptable tolerances across all sensors to maintain trust. | Explicit |
+| “Takes a few minutes to show stable readings.” | The device should have a short warm-up/stabilization time before readings are reliable. | Latent |
+| “Battery doesn’t last long for all-day unplugged use (had to keep it plugged).” | The device should provide longer unplugged runtime without sacrificing performance. | Explicit |
 
-| Voice of the Customer                                                                                               | Restated Customer Need                                                                 |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| "Readings seem off compared to professional equipment."                                                             | 1. The device should provide reliable, accurate readings under normal conditions (latent) |
-| "Screen is hard to read in sunlight."                                                                               | 2. The device should remain readable under bright lighting conditions (latent)         |
-| "Values drift after running for a while; needs recalibration."                                                       | 3. The device should maintain stable readings over time or provide simple calibration steps (latent) |
 
 
 ## Organized Need Statements
