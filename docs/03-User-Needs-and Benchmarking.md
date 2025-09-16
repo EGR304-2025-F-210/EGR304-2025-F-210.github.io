@@ -170,9 +170,10 @@ ph detector for drinking water
 
 ##### Negative Comments
 
-| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
-| "It works but It is soooooooo slooooow" | Users need a quick read-out of pH measurements |
-|
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+---------------------------------------------------------------------------------------- |
+|"It works but It is soooooooo slooooow"| Users need a quick read-out of pH measurements|
 
 #### 5. Next Product goes here
 
