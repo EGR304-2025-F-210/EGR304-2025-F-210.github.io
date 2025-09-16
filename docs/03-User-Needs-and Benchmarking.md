@@ -80,7 +80,7 @@ Our mission is to design and deliver a practical, market-relevant embedded power
 
 
 
-## Search 1 by Asadbek
+
 
 
 
