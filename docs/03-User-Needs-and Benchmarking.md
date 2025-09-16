@@ -16,7 +16,7 @@ Our mission is to design and deliver a practical, market-relevant embedded power
 
 #### 1. [Kidde multi hazard detector](https://a.co/d/in1cRGL) < (link to the product)
 
-![Kiddie](kiddie2.png)
+![Kiddie](image/kiddie2.png)
 
 **(include a picture)**
 
@@ -29,16 +29,29 @@ Our mission is to design and deliver a practical, market-relevant embedded power
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "How much is your home worth? How much is YOUR LIFE, and the lives of those you love, really worth? This dual-function unit would be worth the protection it provides at DOUBLE the price. It is SO simple to use, yet so much better than cheaper units. It will show a reading of gas on its continuous display, BEFORE the amount will set off the alarm! This make it superior to any kind of alarm I have ever purchased before. Do you use natural gas for cooking or heating in your home? Then why are you still just sitting there reading? You NEED this alarm. Stop thinking of the price difference, for crying out loud. Your home AND your life are both PRICELESS. Be smart and responsible. BUY THIS UNIT NOW!" | 1.  The product is very important for health and worth buying because life is priceless compared to product (explicit)                              |
-| Very flexible placement options. I bought this item to warn me about elevated propane levels near the gas dryer in my basement. As per the instructions, I placed the unit on the floor. To test it, I depressed the pin of a small Coleman propane gas cylinder that I held near the sensor. After a short while the sensor displayed “gas” on its screen and let out an alarm that could wake the dead. I feel protected. | 2.  Customer can feel protected and have more safety (explicit) |
-| The Kidde Carbon Monoxide and Explosive Gas Detector is an absolute must-have for every household. Safety is non-negotiable, and this device provides peace of mind like no other. Right out of the box, setup is a breeze—just plug it in, and you’re protected. The digital display is clear and easy to read, providing real-time updates on CO and gas levels. What truly sets this apart is the dual detection for both carbon monoxide and explosive gases, ensuring comprehensive coverage in one compact device. During testing (using safe methods), the alarm proved to be both sensitive and reliable. The loud, piercing sound is impossible to miss, making it effective in alerting you and your family in case of danger. It’s reassuring to know this device is constantly monitoring, even while we sleep. I also appreciate the sleek, unobtrusive design—it blends seamlessly into any room while remaining highly functional. With Kidde’s reputation for quality and reliability, I feel confident that this detector is working around the clock to protect my home and loved ones. Safety, simplicity, and top-notch performance—this detector delivers it all. Don’t wait until it’s too late—invest in this lifesaver today. Highly recommended for every home, apartment, or office!                                                                                                                                                                                    | 3.  Recommended for everyone for everyhome (latent)                               |
+| "How much is your home worth? How much is YOUR LIFE, and the lives of those you love, really worth? This dual-function unit would be worth the protection it provides at DOUBLE the price. It is SO simple to use, yet so much better than cheaper units. It will show a reading of gas on its continuous display, BEFORE the amount will set off the alarm! This make it superior to any kind of alarm I have ever purchased before. Do you use natural gas for cooking or heating in your home? Then why are you still just sitting there reading? You NEED this alarm. Stop thinking of the price difference, for crying out loud. Your home AND your life are both PRICELESS. Be smart and responsible. BUY THIS UNIT NOW!
+" | 1.  The product is very important for health and worth buying because life is priceless compared to product (explicit)                              |
+| Very flexible placement options. I bought this item to warn me about elevated propane levels near the gas dryer in my basement. As per the instructions, I placed the unit on the floor. To test it, I depressed the pin of a small Coleman propane gas cylinder that I held near the sensor. After a short while the sensor displayed “gas” on its screen and let out an alarm that could wake the dead. I feel protected.
+                                                                                                                                                                                        | 2.  Customer can feel protected and have more safety (explicit) |
+| The Kidde Carbon Monoxide and Explosive Gas Detector is an absolute must-have for every household. Safety is non-negotiable, and this device provides peace of mind like no other.
+
+Right out of the box, setup is a breeze—just plug it in, and you’re protected. The digital display is clear and easy to read, providing real-time updates on CO and gas levels. What truly sets this apart is the dual detection for both carbon monoxide and explosive gases, ensuring comprehensive coverage in one compact device.
+
+During testing (using safe methods), the alarm proved to be both sensitive and reliable. The loud, piercing sound is impossible to miss, making it effective in alerting you and your family in case of danger. It’s reassuring to know this device is constantly monitoring, even while we sleep.
+
+I also appreciate the sleek, unobtrusive design—it blends seamlessly into any room while remaining highly functional. With Kidde’s reputation for quality and reliability, I feel confident that this detector is working around the clock to protect my home and loved ones.
+
+Safety, simplicity, and top-notch performance—this detector delivers it all. Don’t wait until it’s too late—invest in this lifesaver today. Highly recommended for every home, apartment, or office!                                                                                                                                                                                        | 3.  Recommended for everyone for everyhome (latent)                               |
 
 ##### Negative Comments
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "This product is an absolute joke. I don’t know where Kidde is sourcing these, but mine reached its end of life in less than one week. That’s right – a brand-new carbon monoxide and gas alarm already declared itself useless after only a few days of use. For something that’s supposed to protect lives, this level of quality is completely unacceptable. I expected reliability and peace of mind, not a defective unit that dies right out of the box. Total waste of money and trust. Save yourself the frustration and buy literally any other brand. This one is worthless." | 1.  The product is not at good quality. (explicit)                       |
 | "I had an all home generator installed which included our propane company to come perform a leak check. They found a significant leak in my home and took measures to repair. They recommended I purchase a detector -- I informed them I had three (3) in my home; one on each floor. They gasped. I showed them where the main floor detector was plugged in -- again gasped. The service employee said the one of the three should absolutely have picked up the leak as one detector was right above the leak and the basement detector was right below. Never did either go off and I check the readout's constantly as they are in my sight when walking by. Not impressed . . . at all.
-" | 1.  The kit is robust. (explicit)                       ||                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) ||                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
+"                                                                                                                                                                                                                                                                                                                                                                                                     | 2.  The measurements of the product are not working.(latent) |
+| "Complete junk. Why would it need a battery when its plugged in? It keeps popping up LB when its plugged in.
+The battery cable isn't even secured and has a inch or more of wire out so I can't seat it correctly, therefore the battery can't even stay in or be safely secured."                                                                                                                                                                                                                                                                                                                                                                                                   | 3.  The product battery is not secured well enough (explicit)           |
 
 #### 2. Water Quality Testers
 
@@ -132,7 +145,7 @@ I hope this helps anyone looking to decide on this purchase. It has been an abso
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The app is not well optimized for multi-sensor applications. (explicit) |
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The need for a hub forces the user into a vendor-lock-in ecosystem (latent)           |
 
-#### 4. Water pH Detectors
+#### 3. Water pH Detectors
 
 ### Search #4
 
@@ -163,13 +176,12 @@ ph detector for drinking water
 |Feedback 1 here|User need here|Ex/Latent|
 
 
-| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
----------------------------------------------------------------------------------------- |
-|"It works but It is soooooooo slooooow"| Users need a quick read-out of pH measurements|
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| "It works but It is soooooooo slooooow" | Users need a quick read-out of pH measurements |
+|
 
 #### 5. 
-**Keywords:** 'environmental hazard monitoring system'
+environmental hazard monitoring system
 
 **Search Results Link:** <add your link here>
 [environmental hazard monitoring system](https://www.amazon.com/s?k=environmental+hazard+monitoring+system)
@@ -211,80 +223,8 @@ ph detector for drinking water
 
 ## Compiled list of user Needs
 
-1. The device will...
-1. The device is ...
-1. The device can ...
-100. The device is...
+1. The device will have accurate measurements
+1. The device's measurements can be calibrated or validated in some way
+1. The device can be easy to read without much training on the values reported
+100. The device is long-lasting, especially with regards to battery life.
 
-
-
-
-
-
-
-
-    discusso el codex:
-
-        if (pimProgressiveMashup(recursive_upnp_barcraft, seo) == file.station_leaf(
-                optical + 1, compact_docking)) {
-            rt_programming_system(udpScraping, marketRegularMetal,
-                    threadingNuiRoom);
-            vlogVaporwarePage += 5 + xhtmlDiskReader;
-            access.kbps_footer.dialogZettabyte(3, cloud_midi_spoofing, ipad_macro);
-        }
-        if (maskProcessorKbps(programming, user, cache_web) >= file *
-                publishingDual) {
-            hibernate.flash_network -= 4;
-            bar = goodput_flash;
-            streaming = voip_flatbed - 1;
-        } else {
-            clipCd(jquery, 55 - -1, touchscreen);
-            plagiarism_command_e = cleanHardIcio;
-            recursion = checksum;
-        }
-        clock(roomCaptcha, 2);
-
-2. listum secundum
-
-    > warningum alertum
-
-3. listum adnauseum
-
-## Pondus ante Ialysios vultu exasperat loqui sanguine
-
-Iacere non, quis nimbis. Dumque tibi minora clamabat contigit vacant, sepulcro
-coniugis quae; mihi! Solent adeste faventibus, perque penates, currere in quater
-Odrysius ferro, vota, vero mittat crinibus, quae. Hanc mundi, ipse vultu voce
-sub quae heros forsitan imagine in tecum Cephalus? Formosissimus vela; vapore
-oris, aera, utendum ostendisse regnum Centaurorum elice.
-
-    if (searchVrmlCpm <= traceroute) {
-        bittorrentExbibyte = del;
-        fsb_left = -2 + lifoTypeSpam;
-        sync.bcc(errorAtm(66, boot, link), meta_personal_hdd, leak.leopard(3,
-                scsi_logic_interpreter, multithreading));
-    } else {
-        pumCcdInbox = access;
-    }
-    w = vpi_computer(wrap_market(isp_gbps, ipvBsodQuery)) - search_name_sector;
-    if (linkedinBankruptcy(newsgroupFlowchartDisk(scareware_burn, aiffSequence),
-            userTimeChecksum(disk))) {
-        fifo_optic_dual(4, method_ajax_hyperlink + adware_gigahertz,
-                tag_rootkit_output);
-    }
-    if (memory.fsb(client_template, typeface_memory_bridge) < newbie_socket_gif(
-            storageModemDrive, kilohertz_yottabyte_middleware)) {
-        dimm.dvd_character.hover(hibernate);
-        exif = unmountVirusRss * 5;
-    } else {
-        localhost_adapter += character_olap_white;
-        subnet(internal_dongle + card);
-    }
-    var hibernateAlert = formatCmsCompression(1 / and_tcp + 5);
-
-Miserande evanida amanti, succiduo, dare mihi quid amnis venit Rhadamanthus.
-Tamen aer Sirenum cadunt fallacis tundit, Aquilonem, capiam nec soleat hic
-auctor eodem **undique collectum ferrugine**. Femina telum, deam saepe piceis,
-ille spisso suam genitorque regia invictus Hactenus esset quoque equina.
-Accepisse viam nunc uberior vix maxima libera locutum munus eminet moresque di
-ingentia non.
