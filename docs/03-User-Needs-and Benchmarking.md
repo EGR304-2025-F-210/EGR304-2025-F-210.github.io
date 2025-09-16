@@ -14,13 +14,13 @@ Our mission is to design and deliver a practical, market-relevant embedded power
 
 ### Selected Products
 
-#### 1. [Kidde multi hazard detector](https://www.amazon.com/s?k=environmental%2Bhazard%2Bdetector&ref=nb_sb_noss) < (link to the product)
+#### 1. [Kidde multi hazard detector](https://a.co/d/in1cRGL) < (link to the product)
 
-![](image1.png)
+![](kiddie2.png)
 
 **(include a picture)**
 
-* Price: $54.99
+* Price: $53.99
 
 * Vendor: Amazon
 
@@ -30,9 +30,18 @@ Our mission is to design and deliver a practical, market-relevant embedded power
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | "How much is your home worth? How much is YOUR LIFE, and the lives of those you love, really worth? This dual-function unit would be worth the protection it provides at DOUBLE the price. It is SO simple to use, yet so much better than cheaper units. It will show a reading of gas on its continuous display, BEFORE the amount will set off the alarm! This make it superior to any kind of alarm I have ever purchased before. Do you use natural gas for cooking or heating in your home? Then why are you still just sitting there reading? You NEED this alarm. Stop thinking of the price difference, for crying out loud. Your home AND your life are both PRICELESS. Be smart and responsible. BUY THIS UNIT NOW!
-" | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
+" | 1.  The product is very important for health and worth buying because life is priceless compared to product (explicit)                              |
+| Very flexible placement options. I bought this item to warn me about elevated propane levels near the gas dryer in my basement. As per the instructions, I placed the unit on the floor. To test it, I depressed the pin of a small Coleman propane gas cylinder that I held near the sensor. After a short while the sensor displayed “gas” on its screen and let out an alarm that could wake the dead. I feel protected.
+                                                                                                                                                                                        | 2.  Customer can feel protected and have more safety (explicit) |
+| The Kidde Carbon Monoxide and Explosive Gas Detector is an absolute must-have for every household. Safety is non-negotiable, and this device provides peace of mind like no other.
+
+Right out of the box, setup is a breeze—just plug it in, and you’re protected. The digital display is clear and easy to read, providing real-time updates on CO and gas levels. What truly sets this apart is the dual detection for both carbon monoxide and explosive gases, ensuring comprehensive coverage in one compact device.
+
+During testing (using safe methods), the alarm proved to be both sensitive and reliable. The loud, piercing sound is impossible to miss, making it effective in alerting you and your family in case of danger. It’s reassuring to know this device is constantly monitoring, even while we sleep.
+
+I also appreciate the sleek, unobtrusive design—it blends seamlessly into any room while remaining highly functional. With Kidde’s reputation for quality and reliability, I feel confident that this detector is working around the clock to protect my home and loved ones.
+
+Safety, simplicity, and top-notch performance—this detector delivers it all. Don’t wait until it’s too late—invest in this lifesaver today. Highly recommended for every home, apartment, or office!                                                                                                                                                                                        | 3.  Recommended for everyone for everyhome (latent)                               |
 
 ##### Negative Comments
 
@@ -110,25 +119,15 @@ air quality tester
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "I  have had this unit for almost 2 years now, I will buy another. It literally saved my life!
-
-If you work from home, like I do, then you need this unit or something like it. I had Radon levels above 7pCi/L and had been living with it without knowing it, for almost 3 years. For those that don't know, Radon is a radioactive breakdown of uranium, thorium, or radium in rocks, soil, and groundwater. The CDC and EPA claim that levels above 4pCi/L are considered highly toxic and proper mitigation should be taken to reduce the levels. This is why Radon mitigation systems are installed in nearly every home across the United States.
-
+| "I  have had this unit for almost 2 years now, I will buy another. It literally saved my life! If you work from home, like I do, then you need this unit or something like it. I had Radon levels above 7pCi/L and had been living with it without knowing it, for almost 3 years. For those that don't know, Radon is a radioactive breakdown of uranium, thorium, or radium in rocks, soil, and groundwater. The CDC and EPA claim that levels above 4pCi/L are considered highly toxic and proper mitigation should be taken to reduce the levels. This is why Radon mitigation systems are installed in nearly every home across the United States.
 If you don't know, educate yourself about Radon and understand that radon causes over 21,000 lung cancer deaths in the United States each year and 2,900 of those deaths are people that have never smoked a day in their lives! For me, every now and then, I would cough and a small spat of blood would sometimes appear and i could never figure out why...
-
 Now, do you NEED this system?
-
-- Absolutely not, there are plenty of radon detectors out there and they are pretty cheap.
-
+- Absolutely not, there are plenty of radon detectors out there and they are pretty cheap
 Why do I recommend this system and why did I choose it?
-
 - Historical Data: This bad boy tracks all of your air quality metrics over time. This is extremely important when you want to understand cause and effect in anything in life. Many of the "bad reviews" talk about how some of the metrics displayed are inaccurate when compared to another device that specializes in one or many of the metrics this unit does display. Accurate comparisons only matter when comparing against a controlled environment and are purely for the sake of argument. This is important to understand because no unit needs to be 100% accurate, it just needs to be accurate to itself so that when you make a change, you can properly see that the change is affecting the metrics in a way that makes sense for what you meant to accomplish.
 For example, I had high radon (the value of the metric didn't matter other than the fact that it is higher than 0... it's radioactivity, is anything above 0 TRULY acceptable?) When I installed my radon mitigation system, I could watch my Radon levels drop tremendously over time, which proved that my radon mitigation system was actually working as expected! Also, I haven't had any spots of blood appear when I cough... I call this a success.
-
 - Dashboard: Airthings has a nice application and semi-customizable dashboard which makes viewing really easy to do, and from anywhere in the world. When my pets are home while the family is away, I can notify my neighbor to open a window to let some fresh air in, while we're away.
-
 - Alerts: Always cool to have alerts so you don't even need to "monitor" the metrics. Fun fact, CO2 builds up pretty rapidly in a well-sealed home. When you go through insulation techniques to seal off cracks and crevices to improve your HVAC efficiency in the thermal zone, it is easy to forget that CO2 has no easy escape. Needless to say, this little guy alerted my phone and I was able to crack a window and keep my family safe. I later installed a fresh air intake on my HVAC system and again, could watch the metrics historically, as they fell to a more than acceptable range, yet again proving that my air intake installation was actually doing its job.
-
 I hope this helps anyone looking to decide on this purchase. It has been an absolute godsend to have in our home and I didn't even get into some of the other things it helped me solve that had been plaguing us.
 " | 1.  The device's warning improved the user's health by alerting them to install a mitigation system(explicit)                              |
 |                                                                                                                                                                                        | 2.  The device's logging capabilities allowed the user to test the efficacy of their mitigation system (explicit) |
@@ -149,11 +148,10 @@ I hope this helps anyone looking to decide on this purchase. It has been an abso
 
 ### Search #4
 
-Water pH Detector
+ph detector for drinking water
 
 **Search Results Link:** <add your link here>
-[https://www.amazon.com/2025-All-New-Meter-Water-Certification/dp/B0F92GK3CT/ref=sr_1_2_sspa?adgrpid=1344703288250045&dib=eyJ2IjoiMSJ9.n0NOUtKAUb4eXlaLxJRc4lsOiirQBQtQ81VvhQy9WRq1SymizoHtzxl3xXEiaKAMoN2fZGGw-smfX_C7qTi2augE6KntESPWbaS_ouJHIlPmQGGLiNFrHM5dADQgDiVZ1SKfHZGZez1fAXd3oMxqKtt7PAL7Pxa7ZnIKeDNKtx0Pm9Fz3zKnDyWgFGhVf8MUEowNH8xK6CifPUgnve9VTjEkgY4fb8uCycVO9pu3bs8.Zmw2Y3YcilBA6v8uMxzmERTJE7B45Kebt3zqY8DXH9Y&dib_tag=se&hvadid=84044196064353&hvbmt=be&hvdev=c&hvlocphy=78088&hvnetw=o&hvqmt=e&hvtargid=kwd-84044307708264%3Aloc-190&hydadcr=20192_13329694&keywords=ph%2Bmeter%2Bdrinking%2Bwater&mcid=f18f18263c063419af12eefbe9eb256e&qid=1757998515&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1]
-(https://www.amazon.com/2025-All-New-Meter-Water-Certification/dp/B0F92GK3CT/ref=sr_1_2_sspa?adgrpid=1344703288250045&dib=eyJ2IjoiMSJ9.n0NOUtKAUb4eXlaLxJRc4lsOiirQBQtQ81VvhQy9WRq1SymizoHtzxl3xXEiaKAMoN2fZGGw-smfX_C7qTi2augE6KntESPWbaS_ouJHIlPmQGGLiNFrHM5dADQgDiVZ1SKfHZGZez1fAXd3oMxqKtt7PAL7Pxa7ZnIKeDNKtx0Pm9Fz3zKnDyWgFGhVf8MUEowNH8xK6CifPUgnve9VTjEkgY4fb8uCycVO9pu3bs8.Zmw2Y3YcilBA6v8uMxzmERTJE7B45Kebt3zqY8DXH9Y&dib_tag=se&hvadid=84044196064353&hvbmt=be&hvdev=c&hvlocphy=78088&hvnetw=o&hvqmt=e&hvtargid=kwd-84044307708264%3Aloc-190&hydadcr=20192_13329694&keywords=ph%2Bmeter%2Bdrinking%2Bwater&mcid=f18f18263c063419af12eefbe9eb256e&qid=1757998515&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+[https://www.amazon.com/2025-All-New-Meter-Water-Certification/](https://www.amazon.com/2025-All-New-Meter-Water-Certification/dp/B0F92GK3CT/ref=sr_1_2_sspa?adgrpid=1344703288250045&dib=eyJ2IjoiMSJ9.n0NOUtKAUb4eXlaLxJRc4lsOiirQBQtQ81VvhQy9WRq1SymizoHtzxl3xXEiaKAMoN2fZGGw-smfX_C7qTi2augE6KntESPWbaS_ouJHIlPmQGGLiNFrHM5dADQgDiVZ1SKfHZGZez1fAXd3oMxqKtt7PAL7Pxa7ZnIKeDNKtx0Pm9Fz3zKnDyWgFGhVf8MUEowNH8xK6CifPUgnve9VTjEkgY4fb8uCycVO9pu3bs8.Zmw2Y3YcilBA6v8uMxzmERTJE7B45Kebt3zqY8DXH9Y&dib_tag=se&hvadid=84044196064353&hvbmt=be&hvdev=c&hvlocphy=78088&hvnetw=o&hvqmt=e&hvtargid=kwd-84044307708264%3Aloc-190&hydadcr=20192_13329694&keywords=ph%2Bmeter%2Bdrinking%2Bwater&mcid=f18f18263c063419af12eefbe9eb256e&qid=1757998515&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
 ![](https://m.media-amazon.com/images/I/71aDdOlKTTL._SX466_.jpg)
 
@@ -166,8 +164,14 @@ Water pH Detector
 ##### Positive Comments
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | Users need a quick and accurate measurement of pH |
-| "This PH tester seems to be working well ! It quickly measures the PH within seconds. The read out is fast and accurate as I used another brand as well . I had it tested and it is completely accurate. I like the small size and portable one ! Good value at this low a price"
+| "This PH tester seems to be working well ! It quickly measures the PH within seconds. The read out is fast and accurate as I used another brand as well . I had it tested and it is completely accurate. I like the small size and portable one ! Good value at this low a price" | Users need a quick and accurate measurement of pH |
+|
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| "It works but It is soooooooo slooooow" | Users need a quick read-out of pH measurements |
+|
 
 #### 5. 
 environmental hazard monitoring system
