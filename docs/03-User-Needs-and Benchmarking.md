@@ -47,10 +47,11 @@ Safety, simplicity, and top-notch performance—this detector delivers it all. D
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "This product is an absolute joke. I don’t know where Kidde is sourcing these, but mine reached its end of life in less than one week. That’s right – a brand-new carbon monoxide and gas alarm already declared itself useless after only a few days of use. For something that’s supposed to protect lives, this level of quality is completely unacceptable. I expected reliability and peace of mind, not a defective unit that dies right out of the box. Total waste of money and trust. Save yourself the frustration and buy literally any other brand. This one is worthless." | 1.  The product is not at good quality. (explicit)                       |
 | "I had an all home generator installed which included our propane company to come perform a leak check. They found a significant leak in my home and took measures to repair. They recommended I purchase a detector -- I informed them I had three (3) in my home; one on each floor. They gasped. I showed them where the main floor detector was plugged in -- again gasped. The service employee said the one of the three should absolutely have picked up the leak as one detector was right above the leak and the basement detector was right below. Never did either go off and I check the readout's constantly as they are in my sight when walking by. Not impressed . . . at all.
-" | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
+"                                                                                                                                                                                                                                                                                                                                                                                                     | 2.  The measurements of the product are not working.(latent) |
+| "Complete junk. Why would it need a battery when its plugged in? It keeps popping up LB when its plugged in.
+The battery cable isn't even secured and has a inch or more of wire out so I can't seat it correctly, therefore the battery can't even stay in or be safely secured."                                                                                                                                                                                                                                                                                                                                                                                                   | 3.  The product battery is not secured well enough (explicit)           |
 
 #### 2. Water Quality Testers
 
@@ -144,7 +145,7 @@ I hope this helps anyone looking to decide on this purchase. It has been an abso
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The app is not well optimized for multi-sensor applications. (explicit) |
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The need for a hub forces the user into a vendor-lock-in ecosystem (latent)           |
 
-#### 4. Water pH Detectors
+#### 3. Water pH Detectors
 
 ### Search #4
 
@@ -169,13 +170,12 @@ ph detector for drinking water
 
 ##### Negative Comments
 
-| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
----------------------------------------------------------------------------------------- |
-|"It works but It is soooooooo slooooow"| Users need a quick read-out of pH measurements|
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| "It works but It is soooooooo slooooow" | Users need a quick read-out of pH measurements |
+|
 
 #### 5. 
-**Keywords:** 'environmental hazard monitoring system'
+environmental hazard monitoring system
 
 **Search Results Link:** <add your link here>
 [environmental hazard monitoring system](https://www.amazon.com/s?k=environmental+hazard+monitoring+system)
