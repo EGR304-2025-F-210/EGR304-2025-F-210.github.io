@@ -151,8 +151,8 @@ I hope this helps anyone looking to decide on this purchase. It has been an abso
 
 Water pH Detector
 
-**Search Results Link:** <add your link here>
-[https://www.amazon.com/2025-All-New-Meter-Water-Certification/]
+**Search Results Link:**
+[https://www.amazon.com/2025-All-New-Meter-Water-Certification/dp/B0F92GK3CT/ref=sr_1_2_sspa?adgrpid=1344703288250045&dib=eyJ2IjoiMSJ9.n0NOUtKAUb4eXlaLxJRc4lsOiirQBQtQ81VvhQy9WRq1SymizoHtzxl3xXEiaKAMoN2fZGGw-smfX_C7qTi2augE6KntESPWbaS_ouJHIlPmQGGLiNFrHM5dADQgDiVZ1SKfHZGZez1fAXd3oMxqKtt7PAL7Pxa7ZnIKeDNKtx0Pm9Fz3zKnDyWgFGhVf8MUEowNH8xK6CifPUgnve9VTjEkgY4fb8uCycVO9pu3bs8.Zmw2Y3YcilBA6v8uMxzmERTJE7B45Kebt3zqY8DXH9Y&dib_tag=se&hvadid=84044196064353&hvbmt=be&hvdev=c&hvlocphy=78088&hvnetw=o&hvqmt=e&hvtargid=kwd-84044307708264%3Aloc-190&hydadcr=20192_13329694&keywords=ph%2Bmeter%2Bdrinking%2Bwater&mcid=f18f18263c063419af12eefbe9eb256e&qid=1757998515&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1]
 (https://www.amazon.com/2025-All-New-Meter-Water-Certification/dp/B0F92GK3CT/ref=sr_1_2_sspa?adgrpid=1344703288250045&dib=eyJ2IjoiMSJ9.n0NOUtKAUb4eXlaLxJRc4lsOiirQBQtQ81VvhQy9WRq1SymizoHtzxl3xXEiaKAMoN2fZGGw-smfX_C7qTi2augE6KntESPWbaS_ouJHIlPmQGGLiNFrHM5dADQgDiVZ1SKfHZGZez1fAXd3oMxqKtt7PAL7Pxa7ZnIKeDNKtx0Pm9Fz3zKnDyWgFGhVf8MUEowNH8xK6CifPUgnve9VTjEkgY4fb8uCycVO9pu3bs8.Zmw2Y3YcilBA6v8uMxzmERTJE7B45Kebt3zqY8DXH9Y&dib_tag=se&hvadid=84044196064353&hvbmt=be&hvdev=c&hvlocphy=78088&hvnetw=o&hvqmt=e&hvtargid=kwd-84044307708264%3Aloc-190&hydadcr=20192_13329694&keywords=ph%2Bmeter%2Bdrinking%2Bwater&mcid=f18f18263c063419af12eefbe9eb256e&qid=1757998515&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
 ![](https://m.media-amazon.com/images/I/71aDdOlKTTL._SX466_.jpg)
