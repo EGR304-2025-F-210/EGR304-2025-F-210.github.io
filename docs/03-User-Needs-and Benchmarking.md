@@ -162,17 +162,20 @@ ph detector for drinking water
 * Description: A pH detector for various pools of water, such as drinking water, hydroponics, aquariums and more. Accurate with a 0.01 precision and has UL certification. Also comes with 3 pH calibration powders.
 
 ##### Positive Comments
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| "This PH tester seems to be working well ! It quickly measures the PH within seconds. The read out is fast and accurate as I used another brand as well . I had it tested and it is completely accurate. I like the small size and portable one ! Good value at this low a price" | Users need a quick and accurate measurement of pH |
-|
+| Voice of the Customer | Restated User Need | Explicit / Latent |
+|---|---|---|
+|"This PH tester seems to be working well ! It quickly measures the PH within seconds. The read out is fast and accurate as I used another brand as well . I had it tested and it is completely accurate. I like the small size and portable one ! Good value at this low a price"|Users need a quick read-out of pH measurements|Explicit|
+|"Bought this to test pickles when I made fermented pickles - worked GREAT! Another excellent tool for my kitchen!"|Device should be useable for a variety of operations|Latent|
+|"Easy to read screen, quick results , good value for gardening."
+|Device should be simple to use and read|Explicit|
 
 ##### Negative Comments
-| Feedback (from reviews) | Restated User Need | Explicit / Latent |
+| Voice of the Customer | Restated User Need | Explicit / Latent |
 |---|---|---|
-|Feedback 1 here|User need here|Ex/Latent|
-|Feedback 1 here|User need here|Ex/Latent|
-|Feedback 1 here|User need here|Ex/Latent|
+|"It works but It is soooooooo slooooow"|Users need a quick read-out of pH measurements|Explicit|
+|"Stopped working after about a month and I missed my return window, would not recommend"|Device needs to operate properly for an adequate amount of time|Explicit|
+|"No instructions or guide to interpret values or usage."
+|Device should be simple to use and read|Explicit|
 
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                                                 |
