@@ -47,7 +47,7 @@ The new product design will be based on that of the AirPods with improvements ba
       * 2.1 The product shall offer high accuracy in it's measurement/warning data. (P9)
       * 2.2 The product shall include a calibration process to allow customers to be sure of their unit's accuracy due to any shipping/handling defects. (P9)
       * 2.3 The product's software shall be distributed as free software following the FSF's 4 freedoms of usage, study, sharing and modification. (P6)
-            * 2.4.1 In the event that binary blobs are required, the user will be notified of these and the binaries will be made available. (P1)
+        * 2.3.1 In the event that binary blobs are required, the user will be notified of these and the binaries will be made available. (P1)
       * 2.4 The product shall use a single statically-typed systems programming language only to improve reliability and performance. (P6)
       * 2.5 The product's software shall be designed for portability and POSIX compliance. (P3)
       * 2.6 The software source code will follow the Google C++ Style Guide (irrespective of language choice) for consistency and readability. (P8)
@@ -55,8 +55,8 @@ The new product design will be based on that of the AirPods with improvements ba
 3. **Interactivity and UI/UX**
       * 3.1 The product should clearly indicate a dangerous condition even if the user is unfamiliar with the measured values via colors, lights and/or other universally understood symbols. (P10)
       * 3.2 The product should be able to adapt to the user's proficiency and use-case level
-            * 3.2.1 The product should feature a simplified default interface that does not display any extra or confusing data to the user (P9)
-            * 3.2.2 The product should offer an optional advanced readout which shows all useful data collected for advanced users (P3)
+        * 3.2.1 The product should feature a simplified default interface that does not display any extra or confusing data to the user (P9)
+        * 3.2.2 The product should offer an optional advanced readout which shows all useful data collected for advanced users (P3)
       * 3.3 The product should require minimum amounts of physical controls to operate, relying on a menu-driven interface (P8)
       * 3.4 The UI and display hardware should be designed for readability in both outdoor direct-sunlight and low-light conditions (P9)
       * 3.5 The font and display size should be easily readable for all ages (P9)
