@@ -38,14 +38,31 @@ This inexpensive monitor allows him to check the air in apartments he views for 
 
 The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
-1. **Producr Design**
+1. **Hardware and Product Design**
    * 1.1 The product shall be visually easy to distinguish from existing water/air quality testers as well as main competitors MEXYBE, PERFORMANCE GURU, bonoch, Nanezan. (P10)
    * 1.1 The product shall be easy to recognize as an bonoch product without needing a logo on its exterior. (P10)
    * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
   
-1. **Functionality**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+2. **Software Functionality**
+      * 2.1 The product shall offer high accuracy in it's measurement/warning data. (P2)
+      * 2.2 The product shall include a calibration process to allow customers to be sure of their unit's accuracy due to any shipping/handling defects. (P10)
+      * 2.3 The product's software shall be distributed as free software following the FSF's 4 freedoms of usage, study, sharing and modification.
+            * 2.4.1 In the event that binary blobs are required, the user will be notified of these and the binaries will be made available.
+      * 2.4 The product shall use a single statically-typed systems programming language only to improve reliability and performance.
+      * 2.5 The product's software shall be designed for portability and POSIX compliance.
+      * 2.6 The software source code will follow the Google C++ Style Guide (irrespective of language choice) for consistency and readability
+3. **Interactivity and UI/UX**
+      * 3.1
+      * 3.2
+4. **Customization**
+      * 4.1
+      * 4.2
+5. **Manufacturing**
+      * 5.1
+      * 5.2
+6. **Safety**
+      * 6.1
+      * 6.2
 
 ## Requirement Criteria Specifications
 
