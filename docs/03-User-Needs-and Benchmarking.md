@@ -8,17 +8,15 @@ Our mission is to design and deliver a practical, market-relevant embedded power
 
 ### Search #1
 
-**Keywords:** "Environmental hazard detector"
+Environmental hazard detector
 
 **Search Results Link:** [https://www.amazon.com/s?k=environmental%2Bhazard%2Bdetector&ref=nb_sb_noss](https://www.amazon.com/s?k=environmental%2Bhazard%2Bdetector&ref=nb_sb_noss)
 
 ### Selected Products
 
-#### 1. [Kidde multi hazard detector](https://a.co/d/in1cRGL) < (link to the product)
+#### 1. [Kidde multi hazard detector](https://a.co/d/in1cRGL)
 
 ![Kiddie image](https://m.media-amazon.com/images/I/71qAcXzl4AL._AC_SX679_.jpg)
-
-**(include a picture)**
 
 * Price: $53.99
 
@@ -52,7 +50,7 @@ water quality tester
 
 ### [MEXYBE 4 in 1 Tds Meter Digital Water Tester](https://www.amazon.com/All-New-Meter-Digital-Water-Tester/dp/B0CTHWS8GX?crid=3W5YQF5MCB5L&dib=eyJ2IjoiMSJ9.C-HI3ll8hekZ5ZobF53ztXwuPDgwzU8Cj_w3pNx_1yZPXFxRz4g3MypQGESxtmu6p5U_sVgxvacb_7Vl23WSO6ReKi4_c3MkxwL8qD7lym_RtFSc1WEgebKO2GeOv_hYK1b31r41hzkQmi-5-WKExyNslHakWvAMU8SsWVR3wyT9Qef30qyIcHobmRU6CcVpdNRPAMBN6WrdseZ4_r3c-EkEfg9HdSaz315dLUtzMRY.Xtcx4Wdj2qjD0VZeBnHrdE0Xg7g26fZYxIezjyNxppQ&dib_tag=se&keywords=water%2Bquality%2Btester&qid=1757993454&sprefix=water%2Bquality%2Btester%2Caps%2C128&sr=8-3&th=1)
 
-![](https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif)
+![](https://m.media-amazon.com/images/I/713+1cAX5RL._SX466_.jpg)
 
 
 * Price: $8.54
@@ -95,7 +93,7 @@ air quality tester
 
 ### [Airthings 2960 View Plus](https://www.amazon.com/Airthings-2960-View-Plus-Humidity/dp/B097YW5Q72?crid=3JKVTP8P7XGHN&dib=eyJ2IjoiMSJ9.HDz4e7D-xGpiZAI9N2PvbIMh3bHN27QhrdQOHfqU-bTGQTG-3uxeaJ8aaXy_CE5j3zOGyNOKZAId-nRhTEN3m8QvYw9JBjzZaFlZk1MntDLKg50idK1R1vueyFflHOsKCYmIjpZdcuUm2pKlMZ3kcHsp8V5unaWSgLUDLgngZs_DK8JIn3a13_37ASJH4coynEQitQPAAPdWa0waro7NNicSRc6P_toeNPgVwhuyea0.R23oyBI7zrYQ2U8sf3iFC9EuXZkGcco9x7alUPIqfb0&dib_tag=se&keywords=air%2Bquality%2Bmonitor&qid=1757996564&sprefix=air%2Bquality%2Bmonitor%2Caps%2C151&sr=8-16&th=1)
 
-![](https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif)
+![](https://m.media-amazon.com/images/I/61cGOt0cE3L._AC_SX569_.jpg)
 
 
 * Price: $329.99
