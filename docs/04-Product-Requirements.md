@@ -51,6 +51,7 @@ The new product design will be based on that of the AirPods with improvements ba
       * 2.4 The product shall use a single statically-typed systems programming language only to improve reliability and performance. (P6)
       * 2.5 The product's software shall be designed for portability and POSIX compliance. (P3)
       * 2.6 The software source code will follow the Google C++ Style Guide (irrespective of language choice) for consistency and readability. (P8)
+
 3. **Interactivity and UI/UX**
       * 3.1 The product should clearly indicate a dangerous condition even if the user is unfamiliar with the measured values via colors, lights and/or other universally understood symbols. (P10)
       * 3.2 The product should be able to adapt to the user's proficiency and use-case level
@@ -60,12 +61,15 @@ The new product design will be based on that of the AirPods with improvements ba
       * 3.4 The UI and display hardware should be designed for readability in both outdoor direct-sunlight and low-light conditions (P9)
       * 3.5 The font and display size should be easily readable for all ages (P9)
       * 3.6 The interface should be designed in a manner that allows for easy translation to other languages in the future (P3)
+
 4. **Customization**
       * 4.1 The product should allow for expandability of functions and packaging through releasing open schematics/dimensions for the casing (P1)
+
 5. **Manufacturing**
       * 5.1 The product should be designed to be compatible with both low-volume hobbyist production methods (3d printing, through-hole soldering, hand tools) as well as high-volume manufacturing methods (injection molding, sheet metal, automated PNP systems, reflow or wave soldering, power/robotic tools) in order to facilitate a low-cost and accessible product (P9)
       * 5.2 The product's manufacturing should be safe and responsible (P6)
       * 5.3 The product shall be designed with the capabilities of domestic (USA) PCB fabs in mind (P6)
+      
 6. **Safety**
       * 6.1 The exterior of the product shall be free from sharp edges (P8)
       * 6.2 The exterior of the product shall be free from any corrosive, carcinogenic, or toxic materials. If such materials are included in the internals, an appropriate warning shall be affixed to the device. (P10)
