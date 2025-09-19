@@ -5,12 +5,12 @@ tags:
 - tag2
 ---
 
-## Project Objective
-- Meets an actual market need (Not the digital equivalent of a Labubu)
-- The project is profitable (Whether we sell many units or high margin)
+## Project Objectives
+- Design an inexpensive enviromental monitor
+- Include multiple sensors for detection and measurement of harmful pollutants
 - Reasonable scope of project so we can finish it on time
-- Improving skills in Embedded power systems
-- Learning more about embedded systems, coding, sensors, and learning about smaller electronic devices rather than larger circuits, more solid state stuff
+- Learn more about embedded systems, coding, sensors, focusing on smaller electronic devices rather than larger circuits
+- While we will attempt to make a profit, our primary financial focus will be providing an inexpensive enviromental monitor
 
 
 ## Stakeholders
