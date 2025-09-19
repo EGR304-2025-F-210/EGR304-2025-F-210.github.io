@@ -54,5 +54,6 @@ The new product design will be based on that of the AirPods with improvements ba
 
 ## Open Questions
 
-* Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
-* Can we improve on failing or self-igniting batteries?
+* What chemicals/gasses/particulates should be monitored?
+* Should we make the device easy to repair or replace?
+* Are there any disabilities we should account for when designing the user interaction?
