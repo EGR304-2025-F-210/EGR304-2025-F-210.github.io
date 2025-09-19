@@ -39,9 +39,9 @@ This inexpensive monitor allows him to check the air in apartments he views for 
 The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
 1. **Hardware and Product Design**
-   * 1.1 The product shall be visually easy to distinguish from existing water/air quality testers as well as main competitors MEXYBE, PERFORMANCE GURU, bonoch, Nanezan. (P10)
-   * 1.1 The product shall be easy to recognize as an bonoch product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
+      * 1.1 The product shall be visually easy to distinguish from existing water/air quality testers as well as main competitors MEXYBE, PERFORMANCE GURU, bonoch, Nanezan. (P10)
+      * 1.1 The product shall be easy to recognize as an bonoch product without needing a logo on its exterior. (P10)
+      * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
   
 2. **Software Functionality**
       * 2.1 The product shall offer high accuracy in it's measurement/warning data. (P9)
