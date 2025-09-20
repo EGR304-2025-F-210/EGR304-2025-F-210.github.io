@@ -42,43 +42,47 @@ Priorities have been standardized as follows:
 
 1. **Hardware and Product Design**
       * 1.1 The product shall be visually easy to distinguish from existing water/air quality testers as well as main competitors MEXYBE, PERFORMANCE GURU, bonoch, Nanezan. (P2)
-      * 1.1 The product shall be easy to recognize as an bonoch product without needing a logo on its exterior. (P2)
-      * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P2)
+      * 1.2 The hardware should be durable (P2)
+      * 1.3 The hardware should be compact (P2)
   
 2. **Software Functionality**
-      * 2.1 The product shall offer high accuracy in it's measurement/warning data. (P2)
-      * 2.2 The product shall include a calibration process to allow customers to be sure of their unit's accuracy due to any shipping/handling defects. (P2)
+      * 2.1 The product shall offer high accuracy in it's measurement/warning data. (P0)
+      * 2.2 The product shall include a calibration process to allow customers to be sure of their unit's accuracy due to any shipping/handling defects. (P0)
       * 2.3 The product's software shall be distributed as free software following the FSF's 4 freedoms of usage, study, sharing and modification. (P1)
-        * 2.3.1 In the event that binary blobs are required, the user will be notified of these and the binaries will be made available. (P0)
+        * 2.3.1 In the event that binary blobs are required, the user will be notified of these and the binaries will be made available. (P2)
       * 2.4 The product shall use a single statically-typed systems programming language only to improve reliability and performance. (P1)
-      * 2.5 The product's software shall be designed for portability and POSIX compliance. (P0)
-      * 2.6 The software source code will follow the Google C++ Style Guide (irrespective of language choice) for consistency and readability. (P2)
+      * 2.5 The product's software shall be designed for portability and POSIX compliance. (P2)
+      * 2.6 The software source code will follow a single style/standards guide for consistency and readability.(P0)
+        * 2.6.1 The Google C++ Style Guide will be used for C++ code
+        * 2.6.2 The Linux Kernel Coding Style will be used for C code
+        * 2.6.3 The Microsoft .NET Coding Conventions will be used for C# code
+        * 2.6.4 An appropriate industry-recognized style guide will be used for Rust, Haskell, LISP, Lua, Java and any other language that may be chosen.
 
 3. **Interactivity and UI/UX**
-      * 3.1 The product should clearly indicate a dangerous condition even if the user is unfamiliar with the measured values via colors, lights and/or other universally understood symbols. (P2)
+      * 3.1 The product should clearly indicate a dangerous condition even if the user is unfamiliar with the measured values via colors, lights and/or other universally understood symbols. (P0)
       * 3.2 The product should be able to adapt to the user's proficiency and use-case level
-        * 3.2.1 The product should feature a simplified default interface that does not display any extra or confusing data to the user (P2)
-        * 3.2.2 The product should offer an optional advanced readout which shows all useful data collected for advanced users (P0)
-      * 3.3 The product should require minimum amounts of physical controls to operate, relying on a menu-driven interface (P2)
-      * 3.4 The UI and display hardware should be designed for readability in both outdoor direct-sunlight and low-light conditions (P2)
-      * 3.5 The font and display size should be easily readable for all ages (P2)
-      * 3.6 The interface should be designed in a manner that allows for easy translation to other languages in the future (P0)
+        * 3.2.1 The product should feature a simplified default interface that does not display any extra or confusing data to the user (P0)
+        * 3.2.2 The product should offer an optional advanced readout which shows all useful data collected for advanced users (P2)
+      * 3.3 The product should require minimum amounts of physical controls to operate, relying on a menu-driven interface (P0)
+      * 3.4 The UI and display hardware should be designed for readability in both outdoor direct-sunlight and low-light conditions (P0)
+      * 3.5 The font and display size should be easily readable for all ages (P0)
+      * 3.6 The interface should be designed in a manner that allows for easy translation to other languages in the future (P2)
 
 4. **Customization**
-      * 4.1 The product should allow for expandability of functions and packaging through releasing open schematics/dimensions for the casing (P0)
+      * 4.1 The product should allow for expandability of functions and packaging through releasing open schematics/dimensions for the casing (P2)
 
 5. **Manufacturing**
-      * 5.1 The product should be designed to be compatible with both low-volume hobbyist production methods (3d printing, through-hole soldering, hand tools) as well as high-volume manufacturing methods (injection molding, sheet metal, automated PNP systems, reflow or wave soldering, power/robotic tools) in order to facilitate a low-cost and accessible product (P2)
+      * 5.1 The product should be designed to be compatible with both low-volume hobbyist production methods (3d printing, through-hole soldering, hand tools) as well as high-volume manufacturing methods (injection molding, sheet metal, automated PNP systems, reflow or wave soldering, power/robotic tools) in order to facilitate a low-cost and accessible product (P0)
       * 5.2 The product's manufacturing should be safe and responsible (P1)
-      * 5.3 The product shall be designed with the capabilities of domestic (USA) PCB fabs in mind (P1)
+      * 5.3 The product shall be designed with the capabilities of domestic (USA) PCB fabs in mind (P2)
       
 6. **Safety**
-      * 6.1 The exterior of the product shall be free from sharp edges (P2)
-      * 6.2 The exterior of the product shall be free from any corrosive, carcinogenic, or toxic materials. If such materials are included in the internals, an appropriate warning shall be affixed to the device. (P2)
-      * 6.3 The product shall not emit any radiation above safe doses for children, including ionizing and laser radiation. (P2)
+      * 6.1 The exterior of the product shall be free from sharp edges (P1)
+      * 6.2 The exterior of the product shall be free from any corrosive, carcinogenic, or toxic materials. If such materials are included in the internals, an appropriate warning shall be affixed to the device. (P0)
+      * 6.3 The product shall not emit any radiation above safe doses for children, including ionizing and laser radiation. (P0)
       * 6.4 The product shall be made in a size or shape that prevents swallowing by infants. (P2)
-      * 6.5 The product shall not emit noise above 18 decibels during any mode of operation. (P2)
-      * 6.6 The user's body shall be appropriately isolated or protected from any moving parts of the product. (P2)
+      * 6.5 The product shall not emit noise above 18 decibels during any mode of operation. (P1)
+      * 6.6 The user's body shall be appropriately isolated or protected from any moving parts of the product. (P1)
 
 ## Requirement Criteria Specifications
 
