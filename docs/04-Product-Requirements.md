@@ -82,8 +82,6 @@ Priorities have been standardized as follows:
 
 ## Requirement Criteria Specifications
 
-## Requirement Criteria Specifications
-
 | ID      | Requirement Description                                                        | Verification Method      | Priority |
 |---------|--------------------------------------------------------------------------------|---------------------------|----------|
 | 1.1.1   | Device radiation emissions ≤ IEC 60601 safety limits                            | Test & Certification      | P0       |
