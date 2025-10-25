@@ -9,10 +9,11 @@ The software proposal UML diagrams below are split into two sections, a state di
 ## Images
 
 **Figure 1:** Sensors state diagram
-![Sensors state diagram](Team210_Software_Proposal.png)
+![](Team210_Software_Proposal.png)
 
 **Figure 2:** Sensors state diagram
-![Controller activity diagram](EGR304_210_Controller.png)
+![](EGR304_210_Controller.png)
+
 
 ## References
 
