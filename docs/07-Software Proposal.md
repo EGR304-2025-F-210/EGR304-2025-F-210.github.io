@@ -3,54 +3,16 @@ title: Software Proposal
 ---
 
 ## Introduction
-
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
-
-## Research Question
-
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+Our team utilizes a hub-and-spoke control/communication method for our project's software, with one subsystem (user input) acting as a motherboard to connect the other 3 sensor boards. The sensor boards can be arbitrarily attached to any of the 4 available headers, and can be removed or re-attached during operation.
+The software proposal UML diagrams below are split into two sections, a state diagram representing the operation of the sensor boards, and an activity diagram representing the logic/operation of the controller board.
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+**Figure 1:** Sensors state diagram
+![Sensors state diagram](Team210_Software_Proposal.png){style width:"350" height:"300;"}
 
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
-
-
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
+**Figure 2:** Sensors state diagram
+![Controller activity diagram](EGR304_210_Controller.png){style width:"350" height:"300;"}
 
 ## References
 
