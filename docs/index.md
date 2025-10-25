@@ -29,4 +29,4 @@ Professor Dr. Nichols<br>
 | Asadbek Ruziev               | [mraruziev.GitHub](https://mraruziev.github.io/) |
 | Jacob Andrus                 | [JacobAndrus.GitHub](https://jandrus4.github.io/)                    |
 | K Phang                | [K-Phang.github](https://K-Phang.github.io) |
-| Neel Garde               | [NeelGarde.Github](https://github.com/NeelGarde/NeelGarde) |
+| Neel Garde               | [NeelGarde.Github](https://neelgarde.github.io/NeelGarde/) |
