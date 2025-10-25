@@ -26,7 +26,7 @@ Professor Dr. Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Asadbek Ruziev               | [mraruziev.GitHub](https://github.com/mraruziev/mraruziev.github.io) |
+| Asadbek Ruziev               | [mraruziev.GitHub](https://mraruziev.github.io/) |
 | Jacob Andrus                 | [JacobAndrus.GitHub](https://jandrus4.github.io/)                    |
 | K Phang                | [K-Phang.github](https://K-Phang.github.io) |
 | Neel Garde               | [NeelGarde.Github](https://github.com/NeelGarde/NeelGarde) |
