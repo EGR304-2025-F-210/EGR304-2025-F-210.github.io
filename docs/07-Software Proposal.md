@@ -14,6 +14,7 @@ The software proposal UML diagrams below are split into two sections, a state di
 **Figure 2:** Controller activity diagram
 ![](image-1.png)
 
+
 ## References
 
 
