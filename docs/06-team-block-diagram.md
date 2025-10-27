@@ -1,8 +1,6 @@
----
-title: System Block Diagram
+title: Group Block Diagram
 tags:
 - tag1
-- Requirements
----
+- Diagram
 
 ![](image.png)
