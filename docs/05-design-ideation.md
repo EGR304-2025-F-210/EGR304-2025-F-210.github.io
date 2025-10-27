@@ -2,7 +2,7 @@ The meeting took place on Monday, September 22, 2025, and everyone in the team p
 
 **Whole team:**
 
-* Kind of settled on a water monitoring system  
+* Settled on a water quality monitoring system  
 * Detection would probably be simpler compared to doing work on the water
 
 **K’s ideas: Active sensor vs. passive sensor**
