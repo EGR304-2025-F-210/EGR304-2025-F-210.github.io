@@ -1,3 +1,10 @@
+---
+title: Design Ideation
+tags:
+- tag1
+- Requirements
+---
+
 The meeting took place on Monday, September 22, 2025, and everyone in the team participated through Discord.  We used Google Docs to collect ideas and ranked ideas based on our individual preferences that align with most of us.
 
 **Whole team:**
