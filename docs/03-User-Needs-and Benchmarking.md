@@ -73,13 +73,11 @@ So really cool and seems to work really well, didn’t even realize it had a tem
 |                                                                                                                                                                                        | 3.  The colour LCD warning is appreciated for ease of measurement. (latent)                               |
 
 ##### Negative Comments
-
 | Voice of the customer | Relative customer need |
 | :---- | :---- |
 | "So I purchased this for aquarium use. You get quick readings when testing the TDS. I tested my tap water which came in at 30-34 ppm, which is the range I expected since I know for a fact that San Francisco water is known for good clean tap water and always drink it. I then wanted to test the temperature readings and it didn’t work at all. Cold water or hot water, it just gave me one reading. It only fluctuated once by one or two degrees from cold water to hot water. If it can’t get a simple temperature reading then I question how reliable the TDS reading actually is. I’ll probably buy a different meter to double check the accuracy because for now I can’t really trust it.” | 1\. The accuracy of the reading is unknown, so it is untrustworthy. (explicit) |
 |  | 2\. The temperature sensor is inaccurate, leading to doubts about the machine's overall accuracy. (explicit) |
 |  | 3\. The user would like some way of calibrating or ensuring accuracy of the unit (latent) |
-
 
 #### 3. Air Quality Testers
 
