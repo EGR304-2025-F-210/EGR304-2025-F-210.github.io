@@ -17,9 +17,17 @@ Dr. Kevin Nichols<br>
 </center>
 
 ## Team Introduction
-> Hello! We are a group of four students in the Fall 2025 Embedded Systems Design Project I class and we are here to showcase our updates on the team project.<br>
->    * We are developing very cheap environmental monitoring device that measures water quality using conductivity, pH, and opacity sensors. This system provides real-time feedback to help users easily identify unsafe environmental conditions and promote healthier living. We will update the website on daily basis as new project updates will be available.<br>
+> Hello! We are group 4 students at Embedded Systems Design class and we are here to showcase our updates on the team project.<br>
+>    * We are developing very cheap environmental monitoring device that measures water and air quality using conductivity, pH, and opacity sensors. This system provides real-time feedback to help users easily identify unsafe environmental conditions and promote healthier living. We will update the website on daily basis as new project updates will be available.<br>
 >    * Stay tuned to see more great things and review our individual GitHub pages for more information.
+
+* To review the team charter and project mission statement, navigate to the ["Team Organization"](https://egr304-2025-f-210.github.io/02-Team-Organization/) section of the team report.
+* To review the our research into similar existing products and our list of 100 user needs, navigate to the ["User Needs & Benchmarking"](https://egr304-2025-f-210.github.io/03-User-Needs-and%20Benchmarking/) section of the team report.
+* To review the project objective, aspects, and targeted users, navigate to the ["Product Requirements"](https://egr304-2025-f-210.github.io/04-Product-Requirements/) section of the team report.
+* To review the list of 100 product ideas and 3 prototypes, navigate to the ["Design Ideation"](https://egr304-2025-f-210.github.io/05-design-ideation/) section of the team report.
+* To review the concept diagram of the subsystems detailing major components, power levels, and connections, navigate to the ["Team Block Diagram"](https://egr304-2025-f-210.github.io/06-team-block-diagram/) section of the team reports.
+* To review the concept UML diagram of device, navigate to the ["Software Proposal"](https://egr304-2025-f-210.github.io/07-Software%20Proposal/) section of the team reports.
+* To review any additional information, navigate to the ["Appendix"](https://egr304-2025-f-210.github.io/Appendix/App-Team-Org/) section of the datasheet
 
 
 ## Team Members Datasheet links
