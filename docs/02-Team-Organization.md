@@ -13,4 +13,4 @@ Based on the team goals, procudures and responsibilities of the team which can b
 
 ## Product Mission Statement
 
-Our mission is to design and deliver a practical, market-relevant environmental monitoring system that balances commercial viability with educational growth. By focusing on achievable scope, profitability, and real-world need, we aim to sharpen our skills in embedded systems, coding, sensors, and solid-state electronics—building. Both technical expertise and entrepreneurial insight will be enhanced while designing a system that genuinely serves its users.
+> Our mission is to design and deliver a practical, market-relevant environmental monitoring system that balances commercial viability with educational growth. By focusing on achievable scope, profitability, and real-world need, we aim to sharpen our skills in embedded systems, coding, sensors, and solid-state electronics—building. Both technical expertise and entrepreneurial insight will be enhanced while designing a system that genuinely serves its users.
