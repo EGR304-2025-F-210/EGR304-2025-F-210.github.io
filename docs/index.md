@@ -17,9 +17,8 @@ Dr. Kevin Nichols<br>
 </center>
 
 ## Team Introduction
-> Hello! We are group 4 students at Embedded Systems Design class and we are here to showcase our updates on the team project.<br>
->    * We are developing very cheap environmental monitoring device that measures water and air quality using conductivity, pH, and opacity sensors. This system provides real-time feedback to help users easily identify unsafe environmental conditions and promote healthier living. We will update the website on daily basis as new project updates will be available.<br>
->    * Stay tuned to see more great things and review our individual GitHub pages for more information.
+> This is the project website of VibeWater (EGR304 Group 210). We are a team of four engineering students working to develop a low-cost, modular, easily manufacturable water quality measuring device for anyone to test their water supply. We are focusing on measuring inorganic contamination and creating an easy-to-use solution that does not need any kind of background or training to run.
+> Our system currently includes modules for measuring water conductivity, pH, and opacity, along with a user interface device.
 
 * To review the team charter and project mission statement, navigate to the ["Team Organization"](https://egr304-2025-f-210.github.io/02-Team-Organization/) section of the team report.
 * To review the our research into similar existing products and our list of 100 user needs, navigate to the ["User Needs & Benchmarking"](https://egr304-2025-f-210.github.io/03-User-Needs-and%20Benchmarking/) section of the team report.
