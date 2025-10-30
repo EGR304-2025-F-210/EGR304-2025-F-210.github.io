@@ -66,60 +66,54 @@ The meeting took place on Monday, September 22, 2025, and everyone in the team p
 | Requirement/Need | Feature | Details |
 | :---- | :---- | :---- |
 | Water quality monitoring | Water quality sensor | To check if the water is of good quality and safe to drink |
-| Water quality monitoring | Temperature sensor |  |
-| Water quality monitoring | Conductance monitoring system |  |
-| Water quality monitoring | Total Dissolved Solids monitor |  |
-| Water quality monitoring | PH Sensor |  |
-| Water quality monitoring | Clarity sensor | Amount of light passing thru |
-| Water quality monitoring | Easy/Self cleaning sensor |  |
-| Water quality changer | Filter system |  |
-| User Interface | Screen |  |
-| User Interface | Button(s) |  |
-| User Interface | Dial |  |
-| Hazardous Gas Detection | LED lights |  |
-| Hazardous Gas Detection | LCD screen |  |
+| Water quality monitoring | Temperature sensor | To check if the water is being measured at a temperature that will result in accurate readings |
+| Water quality monitoring | Conductance monitoring system | Testing for high amount of contaminants, especially metals |
+| Water quality monitoring | Total Dissolved Solids monitor | Testing for total amount of particulate matter |
+| Water quality monitoring | PH Sensor | Testing water acidity for safety |
+| Water quality monitoring | Clarity sensor | Amount of light passing through |
+| Water quality monitoring | Easy/Self cleaning sensor | Reduces maintainance, improves reliability |
+| Water quality changer | Filter system | Reduces the chance of bad readings or sensor damage |
+| User Interface | Screen | Allows for easy display of data |
+| User Interface | Button(s) | Allows for intuitive user operation |
+| User Interface | Dial | Allows for intuitive selection of multiple items |
+| Hazardous Gas Detection | LED lights | Allows for easy warning and debugging |
 | Hazardous Gas Detection | Smoke sensor | Helps to know if gas leaks or benzene vapor, sulfur detection, or if someone smokes around, so ASU can sue them for smoking on campus because some people have allergies and those people are 2nd hand smoke |
 | Hazardous Gas Detection | Variable pitch alarm | Pitch changes based on gas type |
 | Hazardous Gas Detection | Sensor warm-up cycle | For more accuracy/calibration |
-| Hazardous Gas Detection | Concentration History Graph |  |
-| Hazardous Gas Detection | Bluetooth remote alert |  |
-| Device robustness | IP46 rating |  |
-| User interface | Simple readout mode |  |
-| User interface | Expert readout mode |  |
-| User interface  | Large font size |  |
-| User interface | Interface designed for future translation to other languages |  |
-| User interface | Dark mode |  |
-| User interface | Battery status indicator |  |
-| User interface | Simple navigation buttons |  |
-| Water quality monitoring | Optical clarity measurement |  |
-| Hardware design | Pipette/syringe to draw in water |  |
-| Hardware design | Immersion probes to avoid sample intake |  |
-| Hardware design | Pumping system to draw samples |  |
-| Hardware design | Ergonomic design to fit in an adult hand |  |
-| Hardware design | Rounded corners to prevent injury to children |  |
-| Hardware design | Battery-powered device with at least 1 hour of operation time |  |
-| Hardware design | Rechargeable or easily replaceable battery |  |
-| Hardware design | USB-C power port |  |
-| Hardware design | Battery power backup |  |
-| Software | USB-C logging support |  |
-| Water quality monitoring | pH detection capability |  |
-| Water quality monitoring | Calibration mode to ensure device accuracy |  |
-| User interface | ‘Guide’ mode which displays general guidelines for acceptable levels of water pH and clarity |  |
-| User interface | Easily calibrated |  |
-| User interface | 3D printed material |  |
-| Hardware design | Low-light solar panel to improve battery life |  |
-| Hardware design | Shockproof design |  |
-| Modification | GPL-licensed source code |  |
-| Modification | CERN OHL-S V2 |  |
-| Modification | 3D-printable replacement/upgrade parts |  |
-| Modification | Easy to solder electrical parts |  |
-| Modification | User-accessible components |  |
+| Hazardous Gas Detection | Concentration History Graph | Allows for logging over time to isolate sources |
+| Hazardous Gas Detection | Bluetooth remote alert | Allows for warning when the user is not watching the device |
+| Device robustness | IP46 rating | Ensures reliability during water testing |
+| User interface | Simple readout mode | Allows a non-technical user to use the system |
+| User interface | Expert readout mode | Allows an expert user to isolate contamination sources |
+| User interface  | Large font size | Improves accessability |
+| User interface | Interface designed for future translation to other languages | Allows the device to be used globally |
+| User interface | Dark mode | Improves usability in low-light environments |
+| User interface | Battery status indicator | Allows the user to easily know when to charge |
+| User interface | Simple navigation buttons | Allows a non-technical user to use the system |
+| Hardware design | Pipette/syringe to draw in water | Reduces spillage when sampling |
+| Hardware design | Immersion probes to avoid sample intake | Improves reliability and safety by reducing chances of electrical damage |
+| Hardware design | Pumping system to draw samples | Improves usability for various water sources |
+| Hardware design | Ergonomic design to fit in an adult hand | Improves accessibility |
+| Hardware design | Rounded corners to prevent injury to children | Keeps device safe for use |
+| Hardware design | Battery-powered device with at least 1 hour of operation time | Allows device to be used in the field |
+| Hardware design | Rechargeable or easily replaceable battery | Improves longevity, as batteries are the most common failure point on portable devices |
+| Hardware design | USB-C power port | Ensures easily available standard charging infrastructure |
+| Hardware Design | Power sharing between modules | Improves redundancy in the case of one subsystem's regulator circuit failing |
+| Software | USB-C logging support | Standard connection allows use with all modern home computers |
+| Water quality monitoring | Calibration mode to ensure device accuracy | Ensures the device is usable and accurate |
+| User interface | ‘Guide’ mode which displays general guidelines for acceptable levels of water pH and clarity | Allows a non-technical user to use the system |
+| User interface | 3D printed material | Allows for low-cost, low-volume manufacturing of the device by hobbyists and small organizations |
+| Hardware design | Low-light solar panel to improve battery life | Allows the device to be used in the field |
+| Hardware design | Shockproof design | Improves reliability |
+| Modification | GPL-licensed source code | Allows for an expandable ecosystem and modification to suit user needs. |
+| Modification | CERN OHL-S V2 | Allows for an expandable ecosystem and modification to suit user needs. |
+| Modification | Easy to solder electrical parts | Enables easy assembly or repair by users |
+| Modification | User-accessible components | Enables easy assembly or repair by users |
 | Modification | The user can change the notification system settings | LED colors, volume of buzzer, font size |
-| Notification system | Separate warning systems for different sensors |  |
-| Notification system | Buzzer for the visually impaired |  |
-| Notification system | Blinking LEDs for the audibly impaired |  |
-| Notification system | Read-out on screen explaining which spec is unsatisfactory |  |
-| Affordable system | Easy to manufacture and repair device |  |
+| Notification system | Separate warning systems for different sensors | Improves redundancy if the controller subsystem fails |
+| Notification system | Buzzer for the visually impaired | Improves accessibility |
+| Notification system | Blinking LEDs for the audibly impaired | Improves accessibility |
+
 
 **Needs:**  
 User is warned of dangerous water quality  
