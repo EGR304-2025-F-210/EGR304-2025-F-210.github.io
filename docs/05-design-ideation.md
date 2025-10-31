@@ -7,17 +7,25 @@ tags:
 
 ## Final Design Concept
 
-After discussion following the initial ideation session, we came to the conclusion that the most feasible project for us would be as such:
+After discussions following the initial ideation and external design review sessions, we came to the conclusion that the most feasible project for us would be as such:
+
 * Our product will focus on water quality monitoring only.
+
 * The device will feature pH, conductivity and clarity sensors.
+
 * An auditory alert device, LCD screen and coloured LEDs will be used to alert the user.
+
 * A single hardware package will be used for the device, where water can be poured into a funnel for sampling, and drained by a spigot.
+
 * Hardware will be designed around 3D-printing in mind.
+
 * Buttons will be used to control the system.
-* Each sensor subsystem will house it's own LEDs to show danger/safe status in the event that the subsystem with the LCD and speaker fails
+
+* Each sensor subsystem will house it's own LEDs to show danger/safe status in the event that the subsystem with the LCD and speaker fails.
+
 * A hub-and-spoke design will be chosen for communication, requiring only 4 connections.
 
-The process we used to come to this conclusion was that water as a medium, and common water pollutants are far easier to measure without a complicated sensor. As our project requires us to design our sensor units, this was far more feasible than air, which is significantly more complicated. The hub-and-spoke method was chosen to allow for the maximum independancy of our systems, which improves reliability in the event that one system fails. Our design was maximized for modularity and simplicity, ensuring that given our limited time and resources, even if we were unable to meet one of our design feature goals, the rest of the device would work as 
+* In the event any one subsystem loses power, it will conect to the power system on the pH sensor board and receive backup power via power selects or alternate pin headers.
 
 ## Initial Design Concept
 
@@ -144,7 +152,7 @@ Concept CAD models are available for download [here](conceptCAD.zip) in STEP and
 **Needs:**  
 User is warned of dangerous water quality  
 Device display is easily readable in low light  
-Device results can be   
+Device results can be easily understood 
 Affordable cost
 
 **Table sorted by requirement**
