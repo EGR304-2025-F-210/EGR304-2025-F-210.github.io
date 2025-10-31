@@ -27,6 +27,8 @@ After discussions following the initial ideation and external design review sess
 
 * In the event any one subsystem loses power, it will conect to the power system on the pH sensor board and receive backup power via power selects or alternate pin headers.
 
+The process we used to come up with this final design was to maximize the simplicity, independance and modularity of our system. Given the limited time we have available in this class, it is crucial for us to have as few dependancies on other parts of our system as possible, minimizing the chances of a full-system failure. We settled on water only as opposed to air and water to create a more comprehensive testing system of one fluid, as well as the simplicity of measuring water given it's conductivity and ease of containment.
+
 ## Initial Design Concept
 
 Our initial design ideation meeting took place on Monday, September 22, 2025, and everyone in the team participated through a Discord voice call. We used Google Docs to collect ideas and ranked ideas based on our individual preferences that align with most of us.
