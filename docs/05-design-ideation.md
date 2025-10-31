@@ -17,6 +17,8 @@ After discussion following the initial ideation session, we came to the conclusi
 * Each sensor subsystem will house it's own LEDs to show danger/safe status in the event that the subsystem with the LCD and speaker fails
 * A hub-and-spoke design will be chosen for communication, requiring only 4 connections.
 
+The process we used to come to this conclusion was that water as a medium, and common water pollutants are far easier to measure without a complicated sensor. As our project requires us to design our sensor units, this was far more feasible than air, which is significantly more complicated. The hub-and-spoke method was chosen to allow for the maximum independancy of our systems, which improves reliability in the event that one system fails. Our design was maximized for modularity and simplicity, ensuring that given our limited time and resources, even if we were unable to meet one of our design feature goals, the rest of the device would work as 
+
 ## Initial Design Concept
 
 Our initial design ideation meeting took place on Monday, September 22, 2025, and everyone in the team participated through a Discord voice call. We used Google Docs to collect ideas and ranked ideas based on our individual preferences that align with most of us.
