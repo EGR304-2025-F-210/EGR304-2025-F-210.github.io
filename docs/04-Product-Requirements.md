@@ -15,10 +15,10 @@ tags:
 
 ## Stakeholders
 
-- **Target group** People, students, families with low income that can not afford usual air, water quality monitors/testers. Also, universities and house renters of old houses are target audience for our product. 
-- **Target purchaser** Target group profile with special attention to people who live near facilities that were built with asbestos and those who often have water with bacteria, microbes, nitrates, arsenic. We would like to focus for customers in Central and South Asia, Africa, Middle east since those countries have issues with humidity, bad air quality because of frequent dust and bad water quality.
-- **Customer service** Prefers product with low repair need. The product has to be recyclable and easy-to-use  to fit with our intuitive user experience.
-- **Marketing & Sales division** Looks for unique selling points around the bonoch-Explorer lifestyle and user experience.
+- **Target group:** People, students, families with low income that can not afford usual air, water quality monitors/testers. Also, universities and house renters of old houses are target audience for our product. 
+- **Target purchaser:** Target group profile with special attention to people who live near facilities that were built with asbestos and those who often have water with bacteria, microbes, nitrates, arsenic. We would like to focus for customers in Central and South Asia, Africa, Middle east since those regions have issues with humidity, bad air quality because of frequent dust and bad water quality.
+- **Customer service:** Prefers product with low repair need. The product has to be recyclable and easy-to-use  to fit with our intuitive user experience.
+- **Marketing & Sales division:** Looks for unique selling points around the bonoch-Explorer lifestyle and user experience.
 - **Retailers** Prefer products that are very easy to use and very cheap in checking room temperature, humidity, and atmospheric pressure, CO2, TVOC, PM2.5 PM1.0 PM10, HCHO.
 
 
