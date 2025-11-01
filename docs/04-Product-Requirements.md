@@ -41,7 +41,7 @@ Priorities have been standardized as follows:
 - **P2 = Nice-to-have (optional)**  
 
 1. **Hardware and Product Design**
-      * 1.1 The product shall be visually easy to distinguish from existing water/air quality testers as well as main competitors MEXYBE, PERFORMANCE GURU, bonoch, Nanezan. (P2)
+      * 1.1 The hardware should be somewhat portable (P2)
       * 1.2 The hardware should be durable (P2)
       * 1.3 The hardware should be compact (P2)
   
