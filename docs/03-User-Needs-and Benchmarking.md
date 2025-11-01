@@ -61,16 +61,14 @@ water quality tester
 
 ##### Positive Comments
 
+> "Wanted mom to drink my filtered water I get from my rain barrel and clean. Said store bought is better. I got several layers of filters to clean it more and she said no, but dad loved it. Then got a UV-C light to get 100% comfort on disinfection. Mom still said no. So got this to prove the cleanliness of the water and checked a bottle of water and got 34. Wells within 0-50. So I tried my water at various stages of clean. After the initial screens and uv-c light. It’s already 14-16. Add the extra filters and a pass through a brita filter and down to 11. Mom still not convinced hehe. Even aunts distilled water was only down to 7. So thought “let’s check the well water too!” Big mistake as the screen turned dark red as it displayed 1760 and basically told me to run. So really cool and seems to work really well, didn’t even realize it had a temperature control feature, but the readability of the screen and size of the device are really nice and helped give me more comfort in my drinking water.
+" 
+
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "Wanted mom to drink my filtered water I get from my rain barrel and clean. Said store bought is better. I got several layers of filters to clean it more and she said no, but dad loved it. Then got a UV-C light to get 100% comfort on disinfection. Mom still said no.
-
-So got this to prove the cleanliness of the water and checked a bottle of water and got 34. Wells within 0-50. So I tried my water at various stages of clean. After the initial screens and uv-c light. It’s already 14-16. Add the extra filters and a pass through a brita filter and down to 11. Mom still not convinced hehe. Even aunts distilled water was only down to 7. So thought “let’s check the well water too!” Big mistake as the screen turned dark red as it displayed 1760 and basically told me to run.
-
-So really cool and seems to work really well, didn’t even realize it had a temperature control feature, but the readability of the screen and size of the device are really nice and helped give me more comfort in my drinking water.
-" | 1.  The results aligning with the user's intuition gives them faith in the accuracy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The device's size makes it convenient (explicit) |
-|                                                                                                                                                                                        | 3.  The colour LCD warning is appreciated for ease of measurement. (latent)                               |
+| "got this to prove the cleanliness of the water and checked a bottle of water and got 34. Wells within 0-50. So I tried my water at various stages of clean. After the initial screens and uv-c light. It’s already 14-16. Add the extra filters and a pass through a brita filter and down to 11." | 1.  The results aligning with the user's intuition gives them faith in the accuracy (explicit) |                             
+| "the readability of the screen and size of the device are really nice" | 2.  The device's size makes it convenient (explicit) |
+| "the screen turned dark red as it displayed 1760 and basically told me to run" | 3.  The colour LCD warning is appreciated for ease of measurement. (latent) |
 
 ##### Negative Comments
 | Voice of the customer | Relative customer need |
@@ -178,15 +176,6 @@ ph detector for drinking water
 | “Takes a few minutes to show stable readings.” | The device should have a short warm-up/stabilization time before readings are reliable. | Latent |
 | “Battery doesn’t last long for all-day unplugged use (had to keep it plugged).” | The device should provide longer unplugged runtime without sacrificing performance. | Explicit |
 
-
-
-## Organized Need Statements
-
-### First Placement
-
-### Grouped with categories
-
-### Ranked
 
 ## Compiled list of user Needs
 
