@@ -59,10 +59,7 @@ water quality tester
 
 * Description: A handheld water tester device with an LCD unit and green/red backlight to indicate contamination levels. Two titanium probes are used as the main sensing elements, claiming to detect TDS (total dissolved solids), electrical conductivity and temperature. 
 
-##### Positive Comments
-
-> "Wanted mom to drink my filtered water I get from my rain barrel and clean. Said store bought is better. I got several layers of filters to clean it more and she said no, but dad loved it. Then got a UV-C light to get 100% comfort on disinfection. Mom still said no. So got this to prove the cleanliness of the water and checked a bottle of water and got 34. Wells within 0-50. So I tried my water at various stages of clean. After the initial screens and uv-c light. It’s already 14-16. Add the extra filters and a pass through a brita filter and down to 11. Mom still not convinced hehe. Even aunts distilled water was only down to 7. So thought “let’s check the well water too!” Big mistake as the screen turned dark red as it displayed 1760 and basically told me to run. So really cool and seems to work really well, didn’t even realize it had a temperature control feature, but the readability of the screen and size of the device are really nice and helped give me more comfort in my drinking water.
-" 
+##### Positive Comments 
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -73,9 +70,9 @@ water quality tester
 ##### Negative Comments
 | Voice of the customer | Relative customer need |
 | :---- | :---- |
-| "So I purchased this for aquarium use. You get quick readings when testing the TDS. I tested my tap water which came in at 30-34 ppm, which is the range I expected since I know for a fact that San Francisco water is known for good clean tap water and always drink it. I then wanted to test the temperature readings and it didn’t work at all. Cold water or hot water, it just gave me one reading. It only fluctuated once by one or two degrees from cold water to hot water. If it can’t get a simple temperature reading then I question how reliable the TDS reading actually is. I’ll probably buy a different meter to double check the accuracy because for now I can’t really trust it.” | 1\. The accuracy of the reading is unknown, so it is untrustworthy. (explicit) |
-|  | 2\. The temperature sensor is inaccurate, leading to doubts about the machine's overall accuracy. (explicit) |
-|  | 3\. The user would like some way of calibrating or ensuring accuracy of the unit (latent) |
+| "I question how reliable the TDS reading actually is." | 1\. The accuracy of the reading is unknown, so it is untrustworthy. (explicit) |
+| "I then wanted to test the temperature readings and it didn’t work at all. Cold water or hot water, it just gave me one reading. It only fluctuated once by one or two degrees from cold water to hot water." | 2\. The temperature sensor is inaccurate, leading to doubts about the machine's overall accuracy. (explicit) |
+|  "I’ll probably buy a different meter to double check the accuracy because for now I can’t really trust it." | 3\. The user would like some way of calibrating or ensuring accuracy of the unit (latent) |
 
 #### 3. Air Quality Testers
 
@@ -101,9 +98,9 @@ air quality tester
 
 | Voice of the customer | Relative customer need |
 | :---- | :---- |
-| "I have had this unit for almost 2 years now, I will buy another. It literally saved my life\! If you work from home, like I do, then you need this unit or something like it. I had Radon levels above 7pCi/L and had been living with it without knowing it, for almost 3 years. For those that don't know, Radon is a radioactive breakdown of uranium, thorium, or radium in rocks, soil, and groundwater. The CDC and EPA claim that levels above 4pCi/L are considered highly toxic and proper mitigation should be taken to reduce the levels. This is why Radon mitigation systems are installed in nearly every home across the United States. If you don't know, educate yourself about Radon and understand that radon causes over 21,000 lung cancer deaths in the United States each year and 2,900 of those deaths are people that have never smoked a day in their lives\! For me, every now and then, I would cough and a small spat of blood would sometimes appear and i could never figure out why... Now, do you NEED this system? Absolutely not, there are plenty of radon detectors out there and they are pretty cheap Why do I recommend this system and why did I choose it? Historical Data: This bad boy tracks all of your air quality metrics over time. This is extremely important when you want to understand cause and effect in anything in life. Many of the "bad reviews" talk about how some of the metrics displayed are inaccurate when compared to another device that specializes in one or many of the metrics this unit does display. Accurate comparisons only matter when comparing against a controlled environment and are purely for the sake of argument. This is important to understand because no unit needs to be 100% accurate, it just needs to be accurate to itself so that when you make a change, you can properly see that the change is affecting the metrics in a way that makes sense for what you meant to accomplish. For example, I had high radon (the value of the metric didn't matter other than the fact that it is higher than 0... it's radioactivity, is anything above 0 TRULY acceptable?) When I installed my radon mitigation system, I could watch my Radon levels drop tremendously over time, which proved that my radon mitigation system was actually working as expected\! Also, I haven't had any spots of blood appear when I cough... I call this a success. Dashboard: Airthings has a nice application and semi-customizable dashboard which makes viewing really easy to do, and from anywhere in the world. When my pets are home while the family is away, I can notify my neighbor to open a window to let some fresh air in, while we're away. Alerts: Always cool to have alerts so you don't even need to "monitor" the metrics. Fun fact, CO2 builds up pretty rapidly in a well-sealed home. When you go through insulation techniques to seal off cracks and crevices to improve your HVAC efficiency in the thermal zone, it is easy to forget that CO2 has no easy escape. Needless to say, this little guy alerted my phone and I was able to crack a window and keep my family safe. I later installed a fresh air intake on my HVAC system and again, could watch the metrics historically, as they fell to a more than acceptable range, yet again proving that my air intake installation was actually doing its job. | 1\. The device's warning improved the user's health by alerting them to install a mitigation system(explicit) |
-| I hope this helps anyone looking to decide on this purchase. It has been an absolute godsend to have in our home and I didn't even get into some of the other things it helped me solve that had been plaguing us. | 2\. The device's logging capabilities allowed the user to test the efficacy of their mitigation system (explicit) |
-|  | 3\. The multi-contaminant nature of the system was helpful at dealing with a semi-common residential case. (explicit) |
+| "I haven't had any spots of blood appear when I cough... I call this a success." | 1\. The device's warning improved the user's health by alerting them to install a mitigation system(explicit) |
+| "When I installed my radon mitigation system, I could watch my Radon levels drop tremendously over time, which proved that my radon mitigation system was actually working as expected"  | 2\. The device's logging capabilities allowed the user to test the efficacy of their mitigation system (explicit) |
+| "Needless to say, this little guy alerted my phone and I was able to crack a window and keep my family safe. I later installed a fresh air intake on my HVAC system and again, could watch the metrics historically, as they fell to a more than acceptable range, yet again proving that my air intake installation was actually doing its job." | 3\. The multi-contaminant nature of the system was helpful at dealing with a semi-common residential case. (explicit) |
 
 ##### Negative Comments
 
@@ -133,16 +130,16 @@ ph detector for drinking water
 ##### Positive Comments
 | Voice of the Customer | Restated User Need | Explicit / Latent |
 |---|---|---|
-|"This PH tester seems to be working well ! It quickly measures the PH within seconds. The read out is fast and accurate as I used another brand as well . I had it tested and it is completely accurate. I like the small size and portable one ! Good value at this low a price"|Users need a quick read-out of pH measurements|Explicit|
-|"Bought this to test pickles when I made fermented pickles - worked GREAT! Another excellent tool for my kitchen!"|Device should be useable for a variety of operations|Latent|
-|"Easy to read screen, quick results , good value for gardening."|Device should be simple to use and read|Explicit|
+| This PH tester seems to be working well ! It quickly measures the PH within seconds. The read out is fast and accurate as I used another brand as well . I had it tested and it is completely accurate. I like the small size and portable one ! Good value at this low a price" | Users need a quick read-out of pH measurements|Explicit|
+| "Bought this to test pickles when I made fermented pickles - worked GREAT! Another excellent tool for my kitchen!" |Device should be useable for a variety of operations | Latent |
+|"Easy to read screen, quick results , good value for gardening." |Device should be simple to use and read |Explicit|
 
 ##### Negative Comments
 | Voice of the Customer | Restated User Need | Explicit / Latent |
 |---|---|---|
-|"It works but It is soooooooo slooooow"|Users need a quick read-out of pH measurements|Explicit|
-|"Stopped working after about a month and I missed my return window, would not recommend"|Device needs to operate properly for an adequate amount of time|Explicit|
-|"No instructions or guide to interpret values or usage."|Device should be simple to use and read|Explicit|
+| "It works but It is soooooooo slooooow" | Users need a quick read-out of pH measurements | Explicit |
+| "Stopped working after about a month and I missed my return window, would not recommend" | Device needs to operate properly for an adequate amount of time | Explicit |
+| "No instructions or guide to interpret values or usage." | Device should be simple to use and read | Explicit |
 
 
 #### 5. 
