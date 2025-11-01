@@ -745,9 +745,11 @@ The software proposal UML diagrams below are split into two sections, a state di
 The main controller system utilizes the vector interrupt table on the PIC18F57Q43 MCU to handle concurrency and implement a fast-to-sleep design for power saving, allowing the CPU to be off when the display can remain on for idle usage. While currently not implemented, a idle shutdown feature could also be implemented utilizing interrupts. Our software design allows fast-to-sleep to be added in the future to each of the sensor boards as well in the same manner.</p>
 <h2 id="images">Images</h2>
 <p><strong>Figure 1:</strong> Sensors state diagram
-<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Team210SoftwareProposal.png" data-desc-position="bottom"><img alt="" src="../Team210SoftwareProposal.png"></a></p>
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Team210SoftwareProposal.png" data-desc-position="bottom"><img alt="" src="../Team210SoftwareProposal.png"></a>
+Source file available to <a href="../Team210SoftwareProposal.drawio">download</a></p>
 <p><strong>Figure 2:</strong> Controller activity diagram
-<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../ControllerSoftware.png" data-desc-position="bottom"><img alt="" src="../ControllerSoftware.png"></a></p>
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../ControllerSoftware.png" data-desc-position="bottom"><img alt="" src="../ControllerSoftware.png"></a>
+Source file available to <a href="../EGR304210ControllerVIT.drawio">download</a></p>
 <h2 id="design-process">Design Process</h2>
 <p>The design process of our software system was heavily influenced by the hardware layout of our system. We knew we needed to have simple and reliable common software for all the sensor boards to communicate with the controller board, so standardizing the sensor boards to a simple state-machine layout was our solution. 
 The sensor boards needed to be have access to processed sensor data to light up the LEDs. To minimize the amount of inter-board communication and the amount of lanes required for communication, we decided to have the sensor boards perform their own analysis and processing on the data they take, sending the controller board only the value to display and a danger/safe boolean, enabling the use of a single UART lane.
