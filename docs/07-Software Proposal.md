@@ -11,9 +11,11 @@ The main controller system utilizes the vector interrupt table on the PIC18F57Q4
 
 **Figure 1:** Sensors state diagram
 ![](Team210SoftwareProposal.png)
+Source file available to [download](Team210SoftwareProposal.drawio)
 
 **Figure 2:** Controller activity diagram
 ![](ControllerSoftware.png)
+Source file available to [download](EGR304210ControllerVIT.drawio)
 
 ## Design Process
 
