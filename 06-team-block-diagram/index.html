@@ -89,6 +89,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#design-process" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -495,6 +500,17 @@
       
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Group Block Diagram
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -504,6 +520,41 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#design-process" class="md-nav__link">
+    <span class="md-ellipsis">
+      Design Process
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requirements-conformity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requirements Conformity
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -603,6 +654,32 @@
   
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#design-process" class="md-nav__link">
+    <span class="md-ellipsis">
+      Design Process
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requirements-conformity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requirements Conformity
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -629,6 +706,10 @@
 <p><strong>Figure 1:</strong> Block Diagram
 <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../GroupBlockDiagram.png" data-desc-position="bottom"><img alt="" src="../GroupBlockDiagram.png"></a></p>
 <p>For individual subsystem/member block diagrams, please visit the individual datasheets.</p>
+<h2 id="design-process">Design Process</h2>
+<p>To design our block diagram, we focused on maximizing the independancy of our subsystems. We also focused on minimizing power rails, leading to all our systems outside the LCD and the power supplies operating within the 5V rail. We had to incorporate level shifters to supply logic to to our 3.3V LCD display, which necessitated a 3.3V power supply as well. We used a simple 2-lane header for UART data transmission between our boards to minimize the amount of data-carrying wires, which improves the reliability of our subsystem. </p>
+<h2 id="requirements-conformity">Requirements Conformity</h2>
+<p>Our team block diagram meets both our imposed requirements and the requirments of the project by providing a hub-and-spoke method for connection, a standard 9V unregulated power supply, 5V operation of the Curiosity Nano boards, 3 sensors and an actuator, all driven by custom circuitry and analog ICs, and debouncing our buttons. We meet our goals of testing water with the given 3 testing methods, as well as proving an intuitive and easy user interface. </p>
 
 
 
