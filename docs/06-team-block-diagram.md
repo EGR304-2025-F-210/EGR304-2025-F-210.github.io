@@ -4,6 +4,7 @@ title: Group Block Diagram
 ![](GroupBlockDiagram.png)
 
 For individual subsystem/member block diagrams, please visit the individual datasheets.
+The source file is available as a download [here](GroupBlockDiagram.drawio)
 
 ## Design Process
 
