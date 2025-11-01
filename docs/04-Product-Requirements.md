@@ -57,6 +57,10 @@ Priorities have been standardized as follows:
         * 2.6.2 The Linux Kernel Coding Style will be used for C code
         * 2.6.3 The Microsoft .NET Coding Conventions will be used for C# code
         * 2.6.4 An appropriate industry-recognized style guide will be used for Rust, Haskell, LISP, Lua, Java and any other language that may be chosen.
+      * 2.7 All 3 sensors will define "SAFE" and 'DANGER" values for pH, opacity and conductivity.
+        * 2.7.1 pH will be defined as being "SAFE" if it is measured to be between 6.5 and 8.5. Anywhere outside these boundaries will be considered "DANGER".
+        * 2.7.2 Opacity will be defined as being "SAFE" if it is measured to be ...
+        * 2.7.3 Conductivity will be defined as being "SAFE" if it is measured to be ...  
 
 3. **Interactivity and UI/UX**
       * 3.1 The product should clearly indicate a dangerous condition even if the user is unfamiliar with the measured values via colors, lights and/or other universally understood symbols. (P0)
