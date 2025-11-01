@@ -705,7 +705,8 @@
 
 <p><strong>Figure 1:</strong> Block Diagram
 <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../GroupBlockDiagram.png" data-desc-position="bottom"><img alt="" src="../GroupBlockDiagram.png"></a></p>
-<p>For individual subsystem/member block diagrams, please visit the individual datasheets.</p>
+<p>For individual subsystem/member block diagrams, please visit the individual datasheets.
+The source file is available as a download <a href="../GroupBlockDiagram.drawio">here</a></p>
 <h2 id="design-process">Design Process</h2>
 <p>To design our block diagram, we focused on maximizing the independancy of our subsystems. We also focused on minimizing power rails, leading to all our systems outside the LCD and the power supplies operating within the 5V rail. We had to incorporate level shifters to supply logic to to our 3.3V LCD display, which necessitated a 3.3V power supply as well. We used a simple 2-lane header for UART data transmission between our boards to minimize the amount of data-carrying wires, which improves the reliability of our subsystem. </p>
 <h2 id="requirements-conformity">Requirements Conformity</h2>
