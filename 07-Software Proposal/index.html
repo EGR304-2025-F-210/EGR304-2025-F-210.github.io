@@ -756,6 +756,8 @@ On the controller side, since a higher level of concurrency is needed, we chose 
 The controller board will primarily be serving to either drive the menu screen by user buttons, perform configuration of settings, or send the test start signal and display test values while actuating the speaker.
 Buttons will be used as high-priority interrupts to ensure that the device is usable even if the CPU is put to sleep. A low-priority interrupt will be timer-driven for the heartbeat checks, which are only enabled during testing mode to save power.</p>
 <h2 id="requirements-conformity">Requirements conformity</h2>
+<p>Our software proposal is capabable of meeting both the project and our own requirements. We are able to meet the requirements of a fast startup and calibration through parallizing our workload across the 4 PIC18F MCUs. We are able to have an easy-to-use and intuitive interface by utilizing interrupts to ensure that at no point, the user is locked out of the 4 basic buttons, minimizing the amount of menus and complication needed. The automatic probing and error handling improves ease of use as well.
+Our software design also meets the requirements of the project by being compilable from the Microchip MPLAB X IDE from C, utilizing a hub-and-spoke model, and performing DAC or ADC conversion on each subsystem.</p>
 
 
 
