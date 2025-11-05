@@ -552,6 +552,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#signalingheader-pin-breakdown" class="md-nav__link">
+    <span class="md-ellipsis">
+      Signaling/Header Pin breakdown
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -678,6 +687,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#signalingheader-pin-breakdown" class="md-nav__link">
+    <span class="md-ellipsis">
+      Signaling/Header Pin breakdown
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -710,7 +728,158 @@ The source file is available as a download <a href="../GroupBlockDiagram.drawio"
 <h2 id="design-process">Design Process</h2>
 <p>To design our block diagram, we focused on maximizing the independancy of our subsystems. We also focused on minimizing power rails, leading to all our systems outside the LCD and the power supplies operating within the 5V rail. We had to incorporate level shifters to supply logic to to our 3.3V LCD display, which necessitated a 3.3V power supply as well. We used a simple 2-lane header for UART data transmission between our boards to minimize the amount of data-carrying wires, which improves the reliability of our subsystem. </p>
 <h2 id="requirements-conformity">Requirements Conformity</h2>
-<p>Our team block diagram meets both our imposed requirements and the requirments of the project by providing a hub-and-spoke method for connection, a standard 9V unregulated power supply, 5V operation of the Curiosity Nano boards, 3 sensors and an actuator, all driven by custom circuitry and analog ICs, and debouncing our buttons. We meet our goals of testing water with the given 3 testing methods, as well as proving an intuitive and easy user interface. </p>
+<p>Our team block diagram meets both our imposed requirements and the requirments of the project by providing a hub-and-spoke method for connection, a standard 9V unregulated power supply, 5V operation of the Curiosity Nano boards, 3 sensors and an actuator, all driven by custom circuitry and analog ICs, and debouncing our buttons. We meet our goals of testing water with the given 3 testing methods, as well as proving an intuitive and easy user interface.</p>
+<h2 id="signalingheader-pin-breakdown">Signaling/Header Pin breakdown</h2>
+<p>The following table describes the connections between our team member subsystems:</p>
+<table>
+<thead>
+<tr>
+<th>TX Pin #</th>
+<th>TX Pin Label</th>
+<th>TX Subsystem</th>
+<th>RX Pin #</th>
+<th>RX Pin Label</th>
+<th>RX Subsystem</th>
+<th>Signal type</th>
+<th>Data types</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1N1</td>
+<td>sys_1_tx</td>
+<td>Neel</td>
+<td>1A1</td>
+<td>hub_rx</td>
+<td>Asadbek</td>
+<td>Digital - UART</td>
+<td>uint8</td>
+<td>Control signals from user interface, represented as a number between 1-4</td>
+</tr>
+<tr>
+<td>1A2</td>
+<td>hub_tx</td>
+<td>Asadbek</td>
+<td>1N1</td>
+<td>sys_1_rx</td>
+<td>Neel</td>
+<td>Digital - UART</td>
+<td>uint8 (4 bit split)</td>
+<td>Test results from sensor ( 4 bits), boolean safety value (1 bit), heartbeat signal (2 bits), parity bit</td>
+</tr>
+<tr>
+<td>2N1</td>
+<td>sys_2_tx</td>
+<td>Neel</td>
+<td>1K1</td>
+<td>Header_RX1</td>
+<td>K</td>
+<td>Digital - UART</td>
+<td>uint8</td>
+<td>Control signals from user interface, represented as a number between 1-4</td>
+</tr>
+<tr>
+<td>1K2</td>
+<td>Header_TX1</td>
+<td>K</td>
+<td>2N2</td>
+<td>sys_2_rx</td>
+<td>Neel</td>
+<td>Digital - UART</td>
+<td>uint8 (4 bit split)</td>
+<td>Test results from sensor ( 4 bits), boolean safety value (1 bit), heartbeat signal (2 bits), parity bit</td>
+</tr>
+<tr>
+<td>3N1</td>
+<td>sys_3_tx</td>
+<td>Neel</td>
+<td>1J1</td>
+<td>hub_rx</td>
+<td>Jacob</td>
+<td>Digital - UART</td>
+<td>uint8</td>
+<td>Control signals from user interface, represented as a number between 1-4</td>
+</tr>
+<tr>
+<td>1J2</td>
+<td>hub_tx</td>
+<td>Jacob</td>
+<td>3N2</td>
+<td>sys_3_rx</td>
+<td>Neel</td>
+<td>Digital - UART</td>
+<td>uint8 (4 bit split)</td>
+<td>Test results from sensor ( 4 bits), boolean safety value (1 bit), heartbeat signal (2 bits), parity bit</td>
+</tr>
+<tr>
+<td>1N7</td>
+<td>5V</td>
+<td>Neel</td>
+<td>1A7</td>
+<td>5V</td>
+<td>Asadbek</td>
+<td>power</td>
+<td>N/A</td>
+<td>Shared power over headers. Can be switched to an analog signal input on Neel's subsystem header with a jumper.</td>
+</tr>
+<tr>
+<td>2N7</td>
+<td>5V</td>
+<td>Neel</td>
+<td>1K7</td>
+<td>5V</td>
+<td>K</td>
+<td>power</td>
+<td>N/A</td>
+<td>Shared power over headers. Can be switched to an analog signal input on Neel's subsystem header with a jumper.</td>
+</tr>
+<tr>
+<td>3N7</td>
+<td>5V</td>
+<td>Neel</td>
+<td>1J7</td>
+<td>5V</td>
+<td>Jacob</td>
+<td>power</td>
+<td>N/A</td>
+<td>Shared power over headers. Can be switched to an analog signal input on Neel's subsystem header with a jumper.</td>
+</tr>
+<tr>
+<td>1N8</td>
+<td>GND</td>
+<td>Neel</td>
+<td>1A8</td>
+<td>GND</td>
+<td>Asadbek</td>
+<td>ground</td>
+<td>N/A</td>
+<td>Synchronized ground</td>
+</tr>
+<tr>
+<td>2N8</td>
+<td>GND</td>
+<td>Neel</td>
+<td>1K8</td>
+<td>GND</td>
+<td>K</td>
+<td>ground</td>
+<td>N/A</td>
+<td>Synchronized ground</td>
+</tr>
+<tr>
+<td>3N8</td>
+<td>GND</td>
+<td>Neel</td>
+<td>1J8</td>
+<td>GND</td>
+<td>Jacob</td>
+<td>ground</td>
+<td>N/A</td>
+<td>Synchronized ground</td>
+</tr>
+</tbody>
+</table>
 
 
 
