@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Project Objectives
-- Design an inexpensive enviromental monitor
+- Design an inexpensive environmental monitor
 - Include multiple sensors for detection and measurement of harmful pollutants
 - Reasonable scope of project so we can finish it on time
 - Learn more about embedded systems, coding, sensors, focusing on smaller electronic devices rather than larger circuits
@@ -15,11 +15,12 @@ tags:
 
 ## Stakeholders
 
-- **Target group:** People, students, families with low income that can not afford usual air, water quality monitors/testers. Also, universities and house renters of old houses are target audience for our product. 
-- **Target purchaser:** Target group profile with special attention to people who live near facilities that were built with asbestos and those who often have water with bacteria, microbes, nitrates, arsenic. We would like to focus for customers in Central and South Asia, Africa, Middle east since those regions have issues with humidity, bad air quality because of frequent dust and bad water quality.
-- **Customer service:** Prefers product with low repair need. The product has to be recyclable and easy-to-use  to fit with our intuitive user experience.
-- **Marketing & Sales division:** Looks for unique selling points around the bonoch-Explorer lifestyle and user experience.
-- **Retailers** Prefer products that are very easy to use and very cheap in checking room temperature, humidity, and atmospheric pressure, CO2, TVOC, PM2.5 PM1.0 PM10, HCHO.
+- **Manufactuers:** Balance high quality of product with low cost in an ethical manufacturing environment
+- **Distributors** Utilize well-established supply lines to ship products to retailers and customers
+- **Financiers:** Will need an entity with a large amount of captial that can finance getting the company off the ground
+- **Retailers:** Sells product to the public and large entities interested in monitoring water quality
+- **Customers:** Target customers who will have low income but higher risk of exposure to bad water quality
+- **VibeWater:** Coordinate efforts between all stakeholders to maximize effectiveness of low-cost water quality monitor
 
 
 ## Use Cases
@@ -27,12 +28,12 @@ tags:
 **User Story #1: Sarah**
 Sarah is a 42-year-old mom who regularly takes her young children to a local park. Her family just recently moved to this town because her husband, Bob, got a new job at a nearby manufacturing plant. She's noticed her kids have started to cough more often than usual, but they don't appear to be sick. After doing some research, she found that regulations about pollution are more relaxed in this new town compared to the rest of the country. She decides that someone needs to start monitoring the environment for harmful pollutants before someone becomes seriously ill. However, no one is willing to support her investigation and she doesn't have enough money to hire a professional.
 
-Sarah finds a new enviromental monitoring system that is easily affordable and decides to take it upon herself to monitor the environment. This device only costs $100 and it allows her to quickly measure radon and particulate matter levels. It can also detect the presence of gasses such as hydrogen chloride, benzene and toluene or compounds and metals such as asbestos, cadmium, mercury and chromium. Armed with this information, Sarah plans to show the mayor, town council and other residents all of the things they are breathing in due to the relaxed pollution regulations.
+Sarah finds a new enviromental monitoring system that is easily affordable and decides to take it upon herself to monitor the environment. She does not have any kind of technical background, so she normally wouldn't be able to understand what all of the water quality tests mean. This low-cost device allows her quickly and easily diagnose pollution issues that she can explain to her community. Her findings will not change regulations on their own, but the easy-to-understand readings will show her community the issues they are facing due to the relaxed regulations. She can use these findings to further her cause in updating the environmental regulations.
 
 **User Story #2: Jimmy**
 Jimmy is a 79-year-old retiree who sometimes has trouble breathing. He is looking for a new apartment to rent, but he also has a fixed income. He hopes to avoid apartments built long ago, attempting to stay away from buildings that used asbestos during their construction. Landlords have done a good job making old buildings look like new ones, so he bought a new enviromental monitoring device to bring with him everywhere he goes.
 
-This inexpensive monitor allows him to check the air in apartments he views for anything that would make breathing even harder for him. He can detect the presence of asbestos, carbon monoxide, particulate matter and large amounts of carbon dioxide. This allows Jimmy to be warned about apartments that he would struggle to live in and he appreciates how easy it is to use as well as being able to afford it on his fixed income.
+This inexpensive monitor allows him to check the air in apartments he views for anything that would make breathing even harder for him. Since Jimmy has a fixed income, he cannot afford a significant amount of repairs and his aging body prohibits him from doing super intensive repairs and tests with the device. The device can change it's screen brightness, font size and is easy to follow directions. The majority of product issues can be solved by simply replacing the batteries or turning the device off and back on again. Jimmy would be able to easily peform his environmental tests, repair his device and change his settings easily.
 
 ## Design Aspects & Priorities
 Priorities have been standardized as follows:  
