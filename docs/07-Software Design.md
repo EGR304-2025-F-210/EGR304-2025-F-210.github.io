@@ -27,6 +27,15 @@ For the sensor boards, the main loop involves waiting for a start signal. If the
 
 For the controller board, the main loop involves checking for a button press. Upon a button press, the 'active subsystem' represented by variable 'sys' (char) and the 'testing mode' flag represented by variable 'tst' (char) are set accordingly. After checking for the button state, if the testing mode flag is enabled, the controller will set it's appropriate header's TX pin to high for the selected sensor subsystem and set the other 2 TX pins to low. The controller then continiously reads the value of it's RX pin to get the sensor's danger or safe signals, and plays the appropriate speaker tone from a simple square wave created by setting a digital pin high or low with variable delays to generate different tones.
 
+## Top 5 Changes since the initial software proposal
+
+Original proposal software files and diagrams can be found [here](softwareProposal.zip)
+- UART was switched to 1-bit communication for simplicity and challenges with MPLAB
+- Scheduling was switched to a single loop instead of interrupt-driven
+- All variables were declared globally to reduce compiler errors
+- The scope was reduced, eliminating the menu and LCD system to meet the time requirements of the project
+- Subsystem discovery was removed to further simplify the project and meet time requirements.
+
 ## Requirements conformity
 
 Our software proposal is capabable of meeting both the project and our own requirements. We are able to meet the requirements of a fast startup and calibration through parallizing our workload across the 4 PIC18F MCUs. We meet the needs of redundancy and failure handling by ensuring that each sensor subsystem can operate independently if the controller fails through their debug buttons, and the controller can arbitrarily take a sensor board on any of it's headers to function.
