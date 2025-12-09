@@ -3,19 +3,17 @@ title: Software Proposal
 ---
 
 ## Introduction
-Our team utilizes a hub-and-spoke control/communication method for our project's software, with one subsystem (user input) acting as a motherboard to connect the other 3 sensor boards. The sensor boards can be arbitrarily attached to any of the 4 available headers, and can be removed or re-attached during operation.
-The software proposal UML diagrams below are split into two sections, a state diagram representing the operation of the sensor boards, and an activity diagram representing the logic/operation of the controller board.
-The main controller system utilizes the vector interrupt table on the PIC18F57Q43 MCU to handle concurrency and implement a fast-to-sleep design for power saving, allowing the CPU to be off when the display can remain on for idle usage. While currently not implemented, a idle shutdown feature could also be implemented utilizing interrupts. Our software design allows fast-to-sleep to be added in the future to each of the sensor boards as well in the same manner.
+Our team utilizes a hub-and-spoke control/communication method for our project's software, with one subsystem (user input) acting as a motherboard to connect the other 3 sensor boards. The headers can be arbitrarily chosen, as the controller is not aware of the nature of the sensor, and communications are standardized across sensor boards. Simple 2-wire asynchronous digital signaling is used for communication between our boards, where the controller board can set it's own TX pin to signal to 
 
 ## Images
 
 **Figure 1:** Sensors state diagram
-![](Team210SoftwareProposal.png)
-Source file available to [download](Team210SoftwareProposal.drawio)
+![](sensor_soft_final.png)
+Source file available to [download](software_soft_final.drawio)
 
 **Figure 2:** Controller activity diagram
-![](ControllerSoftware.png)
-Source file available to [download](EGR304210ControllerVIT.drawio)
+![](ctrl_soft_final.png)
+Source file available to [download](ctrl_soft_final.drawio)
 
 ## Design Process
 
