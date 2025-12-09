@@ -1,5 +1,5 @@
 ---
-title: Software Proposal
+title: Software Design
 ---
 
 ## Introduction
@@ -18,7 +18,7 @@ Source file available to [download](ctrl_soft_final.drawio)
 ## Design Process
 
 The design process of our software system was heavily influenced by the hardware layout of our system. We knew we needed to have simple and reliable common software for all the sensor boards to communicate with the controller board, so standardizing the sensor boards to a simple state-machine layout was our solution. 
-The sensor boards needed to be have access to processed sensor data to light up the LEDs. To minimize the amount of inter-board communication and the amount of lanes required for communication, we decided to have the sensor boards perform their own analysis and processing on the data they take, sending the controller board only the value to display and a danger/safe boolean, enabling the use of a single UART lane.
+The sensor boards needed to be have access to processed sensor data to light up the LEDs. To minimize the amount of inter-board communication and the amount of lanes required for communication, we decided to have the sensor boards perform their own analysis and processing on the data they take, sending the controller board only the value to display and a danger/safe boolean, enabling the use of a single high/low digital pin for output.
 To improve error handling, we decided to use a heartbeat signal from the sensor boards to inform the controller board of their functionality. As we are not implementing clock gating or any such advanced power saving features on the sensor boards, and they do not need to be aware of the other boards to function, they will not be recieving heartbeat signals, only sending out their unique signal.
 On the controller side, since a higher level of concurrency is needed, we chose to use an interupt-driven design, leveraging the PIC18F's vector interrupt table for added efficiency. 
 The controller board will primarily be serving to either drive the menu screen by user buttons, perform configuration of settings, or send the test start signal and display test values while actuating the speaker.
