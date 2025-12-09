@@ -17,12 +17,15 @@ Source file available to [download](ctrl_soft_final.drawio)
 
 ## Design Process
 
-The design process of our software system was heavily influenced by the hardware layout of our system. We knew we needed to have simple and reliable common software for all the sensor boards to communicate with the controller board, so standardizing the sensor boards to a simple state-machine layout was our solution. 
-The sensor boards needed to be have access to processed sensor data to light up the LEDs. To minimize the amount of inter-board communication and the amount of lanes required for communication, we decided to have the sensor boards perform their own analysis and processing on the data they take, sending the controller board only the value to display and a danger/safe boolean, enabling the use of a single high/low digital pin for output.
-To improve error handling, we decided to use a heartbeat signal from the sensor boards to inform the controller board of their functionality. As we are not implementing clock gating or any such advanced power saving features on the sensor boards, and they do not need to be aware of the other boards to function, they will not be recieving heartbeat signals, only sending out their unique signal.
-On the controller side, since a higher level of concurrency is needed, we chose to use an interupt-driven design, leveraging the PIC18F's vector interrupt table for added efficiency. 
-The controller board will primarily be serving to either drive the menu screen by user buttons, perform configuration of settings, or send the test start signal and display test values while actuating the speaker.
-Buttons will be used as high-priority interrupts to ensure that the device is usable even if the CPU is put to sleep. A low-priority interrupt will be timer-driven for the heartbeat checks, which are only enabled during testing mode to save power.
+Originally our software design was intended to use an interrupt driven layout with UART communications. However, due to time constraints and difficulties with the MPLAB IDE and compiler, we decided to switch our software over to a simple linear/monolithic system that used asynchronous digital high/low pins to transmit single-bit signals only, as opposed to the 8-bit system with UART.
+
+Our system's software evolved from a more complicated scope, where the controller board would also have a screen to display raw values sent from the sensor boards. Due to time and complexity constraints, this was also removed from the design, allowing a more streamlined execution. Since there was no menu or screen, the buttons on the controller board were remapped to starting and stopping the sensor boards directly without the intermediary of a menu software.
+
+Our systems use a simple initialization fucntion provided by MPLAB, following which we set up our variables globally (from a design perspective, this is unecessary and unoptimal, but we seemed to run into many issues where compiled code behaved unexpectedly with the use of locally defined variables on the PIC microcontrollers, and this was a suitable workaround for our time constraints). Past this, we enter the main loop. 
+
+For the sensor boards, the main loop involves waiting for a start signal. If the start signal is recieved (high value on the rx pin), the board reads the values of the sensor from the MCU's ADC module, performs the necessary math/logic against set calibrated values and determines whether the value of the sensor is dangerous or safe. The tx pin is set to high or low accordingly.
+
+For the controller board, the main loop involves checking for a button press. Upon a button press, the 'active subsystem' represented by variable 'sys' (char) and the 'testing mode' flag represented by variable 'tst' (char) are set accordingly. After checking for the button state, if the testing mode flag is enabled, the controller will set it's appropriate header's TX pin to high for the selected sensor subsystem and set the other 2 TX pins to low. The controller then continiously reads the value of it's RX pin to get the sensor's danger or safe signals, and plays the appropriate speaker tone from a simple square wave created by setting a digital pin high or low with variable delays to generate different tones.
 
 ## Requirements conformity
 
