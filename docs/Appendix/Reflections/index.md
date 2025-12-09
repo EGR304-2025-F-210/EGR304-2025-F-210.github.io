@@ -26,10 +26,12 @@ To ensure that our boards worked before sending in the order for manufacturing, 
 
 **5. Filtering analog signals with op-amps:**
 
+You should make sure the sensor you understand the difference between ideal and real gains for op-amps. Also, ALWAYS have the pin out on hand, to prevent soldering to the wrong pin.
 <br><br>
 
 **6. Design ideation:**
 
+This assignment can be a litle confusing, so at the very least, make sure you document EVERY idea you come up with in the early stages of the project.
 <br><br>
 
 **7. Communication between multiple microcontrollers:**
@@ -77,7 +79,7 @@ The GitHub documentation assignments in this class are plentiful. There's a lot 
 Since some of us did not ever used components we used for subsystems, we need to know about its specifications before those arrive and it was important to be able to properly use those and code. Making sure that those components are going to work through different datasheets and comparing its usability online is very important. Make sure that you at least have some backup if that component won't work to make ideal checkoff.<br><br>
 
 
-**5. Do well on the GitHub assignments:**
+**5. Go to office hours:**
 
-The GitHub documentation assignments in this class are plentiful. There's a lot to do, and the GitHub assignments are actually worth significantly more than actually having a working device pointwise. Because of this, it's very important to make sure you do well on the GitHub assignments. Since the cumulative GitHub document is graded twice throughout the semester, any mistake made in previous sections can affect your grade multiple times.
+Regardless of your skill level and experience, something in this class will trip you up. Make a habit of going to office hours regularly so you can clear up any questions you have early. You should also document your conversations with the teachers, because they will most likely forget they ever had a discussion with you, so if you want to do something different, you will need approval from the teachers and it will need to be documented for when they inevitably forget about it.
 <br><br>
