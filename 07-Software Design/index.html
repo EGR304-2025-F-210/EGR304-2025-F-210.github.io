@@ -9,7 +9,7 @@
       
       
       
-        <link rel="canonical" href="https://egr304-2025-f-210.github.io/07-Software%20Proposal/">
+        <link rel="canonical" href="https://egr304-2025-f-210.github.io/07-Software%20Design/">
       
       
         <link rel="prev" href="../06-team-block-diagram/">
@@ -26,7 +26,7 @@
 
     
       
-        <title>Software Proposal - EGR304 Team</title>
+        <title>Software Design - EGR304 Team</title>
       
     
     
@@ -125,7 +125,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Software Proposal
+              Software Design
             
           </span>
         </div>
@@ -309,7 +309,7 @@
   
     
   
-  Software Proposal
+  Software Design
 
       </a>
     </li>
@@ -524,7 +524,7 @@
           
   
   <span class="md-ellipsis">
-    Software Proposal
+    Software Design
   </span>
   
 
@@ -535,7 +535,7 @@
         
   
   <span class="md-ellipsis">
-    Software Proposal
+    Software Design
   </span>
   
 
@@ -723,7 +723,7 @@
                   
 
   
-    <a href="https://github.com/EGR304-2025-F-210/EGR304-2025-F-210.github.io/edit/main/docs/07-Software Proposal.md" title="Edit this page" class="md-content__button md-icon">
+    <a href="https://github.com/EGR304-2025-F-210/EGR304-2025-F-210.github.io/edit/main/docs/07-Software Design.md" title="Edit this page" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"></path></svg>
     </a>
@@ -731,7 +731,7 @@
   
 
 
-  <h1>Software Proposal</h1>
+  <h1>Software Design</h1>
 
 <h2 id="introduction">Introduction</h2>
 <p>Our team utilizes a hub-and-spoke control/communication method for our project's software, with one subsystem (user input) acting as a motherboard to connect the other 3 sensor boards. The headers can be arbitrarily chosen, as the controller is not aware of the nature of the sensor, and communications are standardized across sensor boards. Simple 2-wire asynchronous digital signaling is used for communication between our boards, where the controller board can set it's own TX pin to signal to </p>
@@ -744,7 +744,7 @@ Source file available to <a href="software_soft_final.drawio">download</a></p>
 Source file available to <a href="../ctrl_soft_final.drawio">download</a></p>
 <h2 id="design-process">Design Process</h2>
 <p>The design process of our software system was heavily influenced by the hardware layout of our system. We knew we needed to have simple and reliable common software for all the sensor boards to communicate with the controller board, so standardizing the sensor boards to a simple state-machine layout was our solution. 
-The sensor boards needed to be have access to processed sensor data to light up the LEDs. To minimize the amount of inter-board communication and the amount of lanes required for communication, we decided to have the sensor boards perform their own analysis and processing on the data they take, sending the controller board only the value to display and a danger/safe boolean, enabling the use of a single UART lane.
+The sensor boards needed to be have access to processed sensor data to light up the LEDs. To minimize the amount of inter-board communication and the amount of lanes required for communication, we decided to have the sensor boards perform their own analysis and processing on the data they take, sending the controller board only the value to display and a danger/safe boolean, enabling the use of a single high/low digital pin for output.
 To improve error handling, we decided to use a heartbeat signal from the sensor boards to inform the controller board of their functionality. As we are not implementing clock gating or any such advanced power saving features on the sensor boards, and they do not need to be aware of the other boards to function, they will not be recieving heartbeat signals, only sending out their unique signal.
 On the controller side, since a higher level of concurrency is needed, we chose to use an interupt-driven design, leveraging the PIC18F's vector interrupt table for added efficiency. 
 The controller board will primarily be serving to either drive the menu screen by user buttons, perform configuration of settings, or send the test start signal and display test values while actuating the speaker.
