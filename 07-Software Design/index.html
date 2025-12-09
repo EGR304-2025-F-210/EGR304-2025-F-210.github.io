@@ -582,6 +582,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#top-5-changes-since-the-initial-software-proposal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Top 5 Changes since the initial software proposal
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#requirements-conformity" class="md-nav__link">
     <span class="md-ellipsis">
       Requirements conformity
@@ -713,6 +722,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#top-5-changes-since-the-initial-software-proposal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Top 5 Changes since the initial software proposal
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#requirements-conformity" class="md-nav__link">
     <span class="md-ellipsis">
       Requirements conformity
@@ -770,6 +788,13 @@ Source file available to <a href="../ctrl_soft_final.drawio">download</a></p>
 <p>Our systems use a simple initialization function provided by MPLAB, following which we set up our variables globally (from a design perspective, this is unecessary and unoptimal, but we seemed to run into many issues where compiled code behaved unexpectedly with the use of locally defined variables on the PIC microcontrollers, and this was a suitable workaround for our time constraints). Past this, we enter the main loop. </p>
 <p>For the sensor boards, the main loop involves waiting for a start signal. If the start signal is recieved (high value on the rx pin), the board reads the values of the sensor from the MCU's ADC module, performs the necessary math/logic against set calibrated values and determines whether the value of the sensor is dangerous or safe. The tx pin is set to high or low accordingly. The board's debug button can also trigger the start signal (through software) in the event of a failure in the controller.</p>
 <p>For the controller board, the main loop involves checking for a button press. Upon a button press, the 'active subsystem' represented by variable 'sys' (char) and the 'testing mode' flag represented by variable 'tst' (char) are set accordingly. After checking for the button state, if the testing mode flag is enabled, the controller will set it's appropriate header's TX pin to high for the selected sensor subsystem and set the other 2 TX pins to low. The controller then continiously reads the value of it's RX pin to get the sensor's danger or safe signals, and plays the appropriate speaker tone from a simple square wave created by setting a digital pin high or low with variable delays to generate different tones.</p>
+<h2 id="top-5-changes-since-the-initial-software-proposal">Top 5 Changes since the initial software proposal</h2>
+<p>Original proposal software files and diagrams can be found <a href="../softwareProposal.zip">here</a>
+- UART was switched to 1-bit communication for simplicity and challenges with MPLAB
+- Scheduling was switched to a single loop instead of interrupt-driven
+- All variables were declared globally to reduce compiler errors
+- The scope was reduced, eliminating the menu and LCD system to meet the time requirements of the project
+- Subsystem discovery was removed to further simplify the project and meet time requirements.</p>
 <h2 id="requirements-conformity">Requirements conformity</h2>
 <p>Our software proposal is capabable of meeting both the project and our own requirements. We are able to meet the requirements of a fast startup and calibration through parallizing our workload across the 4 PIC18F MCUs. We meet the needs of redundancy and failure handling by ensuring that each sensor subsystem can operate independently if the controller fails through their debug buttons, and the controller can arbitrarily take a sensor board on any of it's headers to function.
 Our software design also meets the requirements of the project by being compilable from the Microchip MPLAB X IDE from C, utilizing a hub-and-spoke model, and performing DAC or ADC conversion on each subsystem.</p>
