@@ -5,7 +5,7 @@ Reflection
 
 **1. Need to learn more coding**
 
-Since not everyone in our team was familiar with lots of coding in C language, we needed to make our subsystems work.<br><br>
+Since not everyone in our team was familiar with lots of coding in C language, we needed to make our subsystems work. We learned that embedded systems require a lot of coding and it is very integral part of this course.<br><br>
 
 **2. Connecting with different microcontrollers**
 
