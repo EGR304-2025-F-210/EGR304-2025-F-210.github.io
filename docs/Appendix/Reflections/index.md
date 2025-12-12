@@ -5,7 +5,7 @@ Reflection
 
 **1. Need to learn more coding**
 
-Since not everyone in our team was familiar with lots of coding in C language, we needed to make our subsystems work. It was a hard time for us to make the UART work, so we switched to the DAC/ADC. We learned that spending time to make coding better would be very benefitial.<br><br>
+Since not everyone in our team was familiar with lots of coding in C language, we needed to make our subsystems work.<br><br>
 
 **2. Connecting with different microcontrollers**
 
@@ -46,7 +46,6 @@ We needed to look over the block diagram as we had misalignments with what the P
 <br><br>
 
 
-
 ## Recommendations for future students
 The following are Team VibeWater's top 5 recommendations for future students taking this class next semester.
 
@@ -63,7 +62,7 @@ Since you will be in a team of 4, communicating about updates to the assignments
 <br><br>
 
 **4. Attend office hours**
-Office hours are constructive to learn about questions you have. Since you will need to make boards communicating with each other and make team block diagrams, you might have many questions when dealing with them. TAs and professors are very helpful during the office hours.nnnnn
+Office hours are constructive to learn about questions you have. Since you will need to make boards communicating with each other and make team block diagrams, you might have many questions when dealing with them. TAs and professors are very helpful during the office hours.
 <br><br>
 
 
